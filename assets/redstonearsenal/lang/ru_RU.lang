@@ -1,0 +1,33 @@
+#ru_RU
+
+death.attack.flux=Реальность %1$s была разорвана на части потоком!
+death.attack.flux.player=%1$s был наполнен потоком %2$s!
+
+info.redstonearsenal.tool.chargeOn=для усиления
+info.redstonearsenal.tool.chargeOff=для подавления
+info.redstonearsenal.tool.energyPerUse=RF за использование
+info.redstonearsenal.tool.shovel=Также служит мотыгой.
+info.redstonearsenal.tool.wrench=Также служит ножницами.
+
+item.redstonearsenal.material.dustElectrumFlux.name=Потоковая электрумовая смесь 
+item.redstonearsenal.material.ingotElectrumFlux.name=Потоковый электрумовый слиток
+item.redstonearsenal.material.nuggetElectrumFlux.name=Потоковый электрумовый кусочек
+item.redstonearsenal.material.gemCrystalFlux.name=Потоковый кристалл
+item.redstonearsenal.material.rodObsidian.name=Обсидиановый стержень
+item.redstonearsenal.material.rodObsidianFlux.name=Наполненный потоком обсидиановый стержень
+
+item.redstonearsenal.tool.wrench.name=Наполненный потоком гаечный ключ
+item.redstonearsenal.tool.battleWrench.name=Наполненный потоком боевой гаечный ключ
+item.redstonearsenal.tool.sword.name=Наполненный потоком меч
+item.redstonearsenal.tool.shovel.name=Наполненная потоком лопата
+item.redstonearsenal.tool.pickaxe.name=Наполненная потоком кирка
+item.redstonearsenal.tool.axe.name=Наполненный потоком топор
+item.redstonearsenal.tool.sickle.name=Наполненный потоком серп
+item.redstonearsenal.tool.bow.name=Наполненный потоком лук
+
+itemGroup.redstonearsenal.creativeTab=Redstone Arsenal
+
+keybind.redstonearsenal.empower=Усиление/подавление потоковых инструментов/оружия
+
+tile.redstonearsenal.storage.electrumFlux.name=Потоковый электрумовый блок
+tile.redstonearsenal.storage.crystalFlux.name=Блок потокового кристалла

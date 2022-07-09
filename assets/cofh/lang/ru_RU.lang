@@ -1,0 +1,62 @@
+﻿#ru_RU
+
+info.cofh.access=Доступ
+info.cofh.accessMode=Режим доступа
+info.cofh.accessPublic=Публичный
+info.cofh.accessRestricted=Ограниченный
+info.cofh.accessPrivate=Приватный
+info.cofh.all=Всё
+info.cofh.blank=Пусто
+info.cofh.charge=Храниться
+info.cofh.configuration=Конфигурация
+info.cofh.contents=Содержит
+info.cofh.controlStatus=Режим управления
+info.cofh.damageAttack=Урон
+info.cofh.damageFlux=Потоковый урон
+info.cofh.empty=Пусто
+info.cofh.energy=Энергия
+info.cofh.energyConsume=Расход энергии
+info.cofh.energyProduce=Вывод энергии
+info.cofh.energyStored=Хранится
+info.cofh.fluid=Жидкость
+info.cofh.frequency=Частота
+info.cofh.friendsList=Список друзей
+info.cofh.information=Информация
+info.cofh.infinite=Бесконечный
+info.cofh.items=Предметы
+info.cofh.level=Количество
+info.cofh.maxEnergyPerTick=Макс. энерг.
+info.cofh.none=Пусто
+info.cofh.owner=Владелец
+info.cofh.press=Нажмите
+info.cofh.receive=Принимает
+info.cofh.receiving=Приём
+info.cofh.redstoneControl=Управление
+info.cofh.redstoneControlOff=Выключен
+info.cofh.redstoneControlOn=Включён
+info.cofh.redstoneStateHigh=Высокий
+info.cofh.redstoneStateIgnored=Игнорируется
+info.cofh.redstoneStateLow=Низкий
+info.cofh.security=Безопасность
+info.cofh.send=Передаёт
+info.cofh.sending=Передача
+info.cofh.signal=Управление
+info.cofh.signalRequired=Требуемый сигнал
+info.cofh.source=Источник
+info.cofh.tutorial=Туториал
+
+info.cofh.tutorial.fluxRequired=Для работы необходим Redstone Flux.
+info.cofh.tutorial.tabConfiguration=Эта конфигурация определяет как предметы попадают и покидают машину.
+info.cofh.tutorial.tabConfiguration2=Вкладка конфигурации настраивает режим работы этой машины.
+info.cofh.tutorial.tabRedstone=Вкладка "Контроль" настраивает поведение машины на сигнал красного камня.
+
+item.invalid.name=Неизвестный предмет (уничтожить)
+
+message.cofh.holdShift1=Нажмите
+message.cofh.holdShift2=Shift
+message.cofh.holdShift3=для информации
+message.cofh.secure1=Это личная вещь игрока
+message.cofh.secure2=Ты мог потерять свою руку!
+message.cofh.secureWarning=Но: Операторы сервера имеют доступ к приватным блокам.
+message.cofh.receiveConfig=Приём конфигураций сервера...
+message.cofh.restoreConfig=Восстанавливавшие конфигураций клиента...
