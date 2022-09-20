@@ -270,7 +270,7 @@ tile.thermalexpansion.device.activator.name=Автономный активат�
 tile.thermalexpansion.device.breaker.name=Разрушитель территории
 tile.thermalexpansion.device.nullifier.name=Аннулятор
 
-tile.thermalexpansion.dynamo.steam.name=Аннулятор
+tile.thermalexpansion.dynamo.steam.name=Паровой генератор
 tile.thermalexpansion.dynamo.magmatic.name=Магмовый генератор
 tile.thermalexpansion.dynamo.compression.name=Компрессионный генератор
 tile.thermalexpansion.dynamo.reactant.name=Реагентный генератор
