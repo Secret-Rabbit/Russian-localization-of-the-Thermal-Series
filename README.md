@@ -1,5 +1,4 @@
-# Thermal-Expansion-3-Russian-localization
-Данный репозиторий предназначен для публикации перевода на русский язык модификации Thermal Expansion 3 и Redstone Arsenal для Minecraft 1.6.4. Все названия повторяют названия, используемые в статье https://minecraft.fandom.com/ru/wiki/Thermal_Expansion_3
+Данный репозиторий предназначен для публикации перевода на русский язык модификаций от команды разработчиков CoFH (Серии Thermal, а также Redstone Arsenal, Archer's Paradox, Ensorcellation, Oh My Gourd и Tool's Complement). Все названия отсюда должны соответствовать названиям, используемым на Русской Minecrfat Wiki.
 
 
-This repository is intended for publishing a translation into Russian of the modification of Thermal Expansion 3 and Redstone Arsenal for Minecraft 1.6.4. All names repeat the names used in the article https://minecraft.fandom.com/ru/wiki/Thermal_Expansion_3
+This repository is intended for publishing translations into Russian of modifications from the CoFH development team (Thermal Series, as well as Redstone Arsenal, Archer's Paradox, Ensorcellation, Oh My Gourd and Tool's Complement). All names from here should correspond to the names used on the Russian Minecraft Wiki.
