@@ -1,56 +1,151 @@
 ﻿#ru_RU
 
+config.Client.tooltip=Настройка параметров только на стороне клиента.
+config.Common.tooltip=Настройка параметров общих параметры.
+config.Core.tooltip=Настройка параметров модуля Core.
+config.Loot.tooltip=Настройка параметров модуля Loot.
+
+chat.cofh.secure=Это личное и принадлежит %s! Вы могли потерять руку!
+chat.cofh.secureItem=Теперь этот предмет принадлежит Вам.
+chat.cofh.secureNotice=Предупреждение: Операторы сервера имеют свободный доступ к защищённым блокам.
+
+enchant.cofh.holding=Удержание
+enchant.cofh.multishot=Мульти-выстрел
+
 info.cofh.access=Доступ
 info.cofh.accessMode=Режим доступа
 info.cofh.accessPublic=Публичный
 info.cofh.accessRestricted=Ограниченный
 info.cofh.accessPrivate=Приватный
+info.cofh.addDestination=Добавить место назначения
+info.cofh.addFrequency=Добавить частоту
 info.cofh.all=Всё
+info.cofh.amount=Количество
+info.cofh.angle=Угол
+info.cofh.anotherplayer=Другой игрок
+info.cofh.augmentation=Расширения
 info.cofh.blank=Пусто
+info.cofh.buffer=Буфер
+info.cofh.capacity=Ёмкость
 info.cofh.charge=Заряд
+info.cofh.cheater=Читер!
 info.cofh.configuration=Конфигурация
 info.cofh.contents=Содержит
 info.cofh.controlStatus=Режим управления
 info.cofh.damageAttack=Урон
 info.cofh.damageFlux=Потоковый урон
+info.cofh.disable=Отключить
+info.cofh.disabled=Выключен
+info.cofh.distance=Дистанция
+info.cofh.dry=Сухая
+info.cofh.duration=Длительность
+info.cofh.efficiency=Эффективность
 info.cofh.empty=Пусто
+info.cofh.enable=Включить
+info.cofh.enabled=Включён
 info.cofh.energy=Энергия
 info.cofh.energyConsume=Расход энергии
 info.cofh.energyProduce=Вывод энергии
 info.cofh.energyStored=Хранится
+info.cofh.filter=Фильтр
 info.cofh.fluid=Жидкость
+info.cofh.fluids=Жидкости
+info.cofh.force=Принудительно
+info.cofh.forDetails=для информации
 info.cofh.frequency=Частота
 info.cofh.friendsList=Список друзей
+info.cofh.hasInfo=Есть информация
+info.cofh.high=Высокий
+info.cofh.hold=Удерживайте
+info.cofh.idle=Простой
+info.cofh.ignored=Игнорируется
 info.cofh.information=Информация
 info.cofh.infinite=Бесконечный
+info.cofh.item=Предмет
 info.cofh.items=Предметы
+info.cofh.legacy=Устаревшее
+info.cofh.level=Уровень
+info.cofh.locked=Закрыто
+info.cofh.loot=Лут
+info.cofh.low=Низкий
+info.cofh.output=Выход
 info.cofh.level=Количество
 info.cofh.maxEnergyPerTick=Макс. энерг.
+info.cofh.modeChange=для смены режима
 info.cofh.none=Пусто
 info.cofh.owner=Владелец
+info.cofh.perUse=Расход энергии
+info.cofh.preferences=Параметры
 info.cofh.press=Нажмите
-info.cofh.receive=Принимает
-info.cofh.receiving=Приём
+info.cofh.receive=Вход
+info.cofh.receiving=Получение
 info.cofh.redstoneControl=Управление
 info.cofh.redstoneControlOff=Выключен
 info.cofh.redstoneControlOn=Включён
 info.cofh.redstoneStateHigh=Высокий
+info.cofh.removeDestination=Удалить место назначения
+info.cofh.removeFrequency=Удалить частоту
 info.cofh.redstoneStateIgnored=Игнорируется
 info.cofh.redstoneStateLow=Низкий
 info.cofh.security=Безопасность
-info.cofh.send=Передаёт
-info.cofh.sending=Передача
+info.cofh.send=Выход
+info.cofh.sending=Отправка
+info.cofh.setDestination=Установить место назначения
+info.cofh.setFrequency=Установить частоту
+info.cofh.shift=Shift
 info.cofh.signal=Управление
 info.cofh.signalRequired=Требуемый сигнал
 info.cofh.source=Источник
 info.cofh.tutorial=Руководство
+info.cofh.soaked=Пропитанная
+
+info.cofh.command.friend=Команда для добавления и удаления друзей из списка друзей.
+info.cofh.command.help=Команда, которая поможет вам в работе с другими командами!
+info.cofh.command.syntax=Команда, которая поможет вам разобраться с синтаксисом других команд!
+info.cofh.command.killall=Убивает все сущности с заданным именем, а также убивает всех враждебных мобов по умолчанию.
+info.cofh.command.tps=Выводит количество тиков в секунду на сервере. На идеальном сервере это значение должно быть равно 20.
+info.cofh.command.tpx=Улучшенная версия команды /tp, которая работает между измерениями.
+info.cofh.command.version=Выводит версию этого мода.
+info.cofh.command.enchant=Улучшенная команда /enchant. Не имеет ограничений по уровню или применимости.
+info.cofh.command.clearblocks=Очищает указанные блоки из указанной области.
+info.cofh.command.countblocks=Подсчитывает указанные блоки из указанной области.
+info.cofh.command.pregen=Предварительно генерирует чанки в указанной области мира.
+info.cofh.command.replaceblocks=Заменяет указанные блоки в указанной области в мире.
+info.cofh.command.reloadworldgen=Перезагружает генерацию мира с диска.
+info.cofh.command.unloadchunk=Выгружает чанк, на который смотрит игрок.
+
+info.cofh.command.syntaxError=Неверный синтаксис.
+info.cofh.command.notFound=Неизвестная команда. Введите /cofh help для получения списка команд.
+info.cofh.command.world.notFound=Мир не существует.
+
+info.cofh.command.friend.0=успешно добавлен в список ваших друзей.
+info.cofh.command.friend.1=Извините, возникла проблема при добавлении
+info.cofh.command.friend.2=в ваш список.
+info.cofh.command.friend.3=Извините, это неправильный ник.
+info.cofh.command.friend.4=успешно удалён из списка ваших друзей.
+info.cofh.command.friend.5=не был твоим другом.
+
+info.cofh.updater.version=Доступна новая версия
 
 info.cofh.tutorial.fluxRequired=Для работы необходим Redstone Flux.
+info.cofh.tutorial.tabAugment=Вкладка Расширения позволяет устанавливать модульные расширения.
 info.cofh.tutorial.tabConfiguration=Вкладка Конфигурация определяет то, как предметы попадают и покидают механизм.
-info.cofh.tutorial.tabConfiguration2=Вкладка Конфигурация настраивает режим работы этого механизма.
-info.cofh.tutorial.tabRedstone=Вкладка Управление настраивает реакцию механизма на сигнал красного камня.
+info.cofh.tutorial.tabConfiguration.0=Вкладка Конфигурация определяет то, как предметы попадают и покидают механизм.
+info.cofh.tutorial.tabConfiguration.1=Вкладка Конфигурация определяет то, как энергия передаётся на данное устройство и от него.
+info.cofh.tutorial.tabConfiguration.2=Вкладка Конфигурация определяет режимы работы данного механизма.
+info.cofh.tutorial.tabRedstone=Вкладка Управление определяет реакцию механизма на сигнал красного камня.
+info.cofh.tutorial.tabSecurity=Вкладка Безопасность позволяет владельцу управлять тем, кто может получить доступ к данному устройству.
 
 item.invalid.name=Сломанный предмет (уничтожить)
+
+key.cofh.category=Управление CoFH
+							 
+key.cofh.empower=Усиление/Подавление предметов
+key.cofh.multimode=Цикличный режим
+key.cofh.augments=Открытый интерфейс расширений игрока
+
+tab.cofh.friend.0=Добавление/удаление друзей!
+tab.cofh.friend.1=Друзья не указаны.
 
 message.cofh.holdShift1=Удерживайте
 message.cofh.holdShift2=Shift
@@ -60,3 +155,6 @@ message.cofh.secure2=Ты мог потерять свою руку!
 message.cofh.secureWarning=Предупреждение: Операторы сервера имеют доступ к приватным блокам.
 message.cofh.receiveConfig=Приём конфигураций сервера...
 message.cofh.restoreConfig=Восстанавливавшие конфигураций клиента...
+
+fluid.tile.water=Вода
+fluid.tile.lava=Лава

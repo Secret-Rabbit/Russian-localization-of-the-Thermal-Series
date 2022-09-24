@@ -13,8 +13,24 @@ item.redstonearsenal.material.dustElectrumFlux.name=Потоковая элек�
 item.redstonearsenal.material.ingotElectrumFlux.name=Потоковый электрумовый слиток
 item.redstonearsenal.material.nuggetElectrumFlux.name=Потоковый электрумовый кусочек
 item.redstonearsenal.material.gemCrystalFlux.name=Потоковый кристалл
+item.redstonearsenal.material.plateFlux.name=Потоковая бронепластина
 item.redstonearsenal.material.rodObsidian.name=Обсидиановый стержень
 item.redstonearsenal.material.rodObsidianFlux.name=Наполненный потоком обсидиановый стержень
+
+item.redstonearsenal.armor.fluxHelmet.name=Наполненный потоком шлем
+item.redstonearsenal.armor.fluxPlate.name=Наполненная потоком кираса
+item.redstonearsenal.armor.fluxLegs.name=Наполненные потоком поножи
+item.redstonearsenal.armor.fluxBoots.name=Наполненные потоком ботинки
+
+item.redstonearsenal.tool.fluxWrench.name=Наполненный потоком гаечный ключ
+item.redstonearsenal.tool.fluxBattleWrench.name=Наполненный потоком боевой гаечный ключ
+item.redstonearsenal.tool.fluxSword.name=Наполненный потоком меч
+item.redstonearsenal.tool.fluxShovel.name=Наполненная потоком лопата
+item.redstonearsenal.tool.fluxPickaxe.name=Наполненная потоком кирка
+item.redstonearsenal.tool.fluxAxe.name=Наполненный потоком топор
+item.redstonearsenal.tool.fluxFishingRod.name=Наполненная потоком удочка
+item.redstonearsenal.tool.fluxSickle.name=Наполненный потоком серп
+item.redstonearsenal.tool.fluxBow.name=Наполненный потоком лук
 
 item.redstonearsenal.tool.wrench.name=Наполненный потоком гаечный ключ
 item.redstonearsenal.tool.battleWrench.name=Наполненный потоком боевой гаечный ключ

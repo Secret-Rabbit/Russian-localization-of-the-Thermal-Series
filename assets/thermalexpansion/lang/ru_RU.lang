@@ -4,9 +4,9 @@ death.attack.pyrotheum=%1$s принял пиротеум воду!
 death.attack.pyrotheum.player=%1$s сгорел заживо, пытаясь убежать от %2$s!
 death.attack.cryotheum=%1$s замёрз до смерти!
 death.attack.cryotheum.player=%1$s замёрз до смерти, пытаясь убежать от %2$s!
-death.attack.blizz=%1$s встретил фригидную судьбу!
+death.attack.blizz=%1$s встретил холодную судьбу!
 
-entity.Blizz.name=Буран
+entity.Blizz.name=Близз
 
 fluid.redstone=Дестабилизированный красный камень
 fluid.glowstone=Заряженный светящийся камень
@@ -21,7 +21,7 @@ info.thermalexpansion.schematic=Схема
 info.thermalexpansion.modeItem=Предметы
 info.thermalexpansion.modeFluid=Жидкости
 info.thermalexpansion.modeEnergy=Энергия
-info.thermalexpansion.modeBlocked=Заблокирован
+info.thermalexpansion.modeBlocked=Отключено
 info.thermalexpansion.modeSend=Только отправлять
 info.thermalexpansion.modeRecv=Только получать
 info.thermalexpansion.modeSendRecv=Отправлять/получать
@@ -219,11 +219,11 @@ item.thermalexpansion.material.gearCopper.name=Медная шестерня
 item.thermalexpansion.material.gearTin.name=Оловянная шестерня
 item.thermalexpansion.material.gearElectrum.name=Электрумовая шестерня
 item.thermalexpansion.material.gearInvar.name=Инварная шестерня
-item.thermalexpansion.material.gearBronze.name=Бронзовая шестерняr
+item.thermalexpansion.material.gearBronze.name=Бронзовая шестерня
 item.thermalexpansion.material.gearEnderium.name=Эндериевая шестерня
 
-item.thermalexpansion.material.rodBlizz.name=Бурановый стержень
-item.thermalexpansion.material.dustBlizz.name=Бурановый порошок
+item.thermalexpansion.material.rodBlizz.name=Стержень Близза
+item.thermalexpansion.material.dustBlizz.name=Порошок Близза
 
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Блоки
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Инструменты
