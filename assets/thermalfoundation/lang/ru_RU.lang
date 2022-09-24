@@ -12,16 +12,9 @@ death.attack.petrotheum.player=%1$s разбился\, убегая от %2$s!
 entity.Basalz.name=Базальц
 entity.Blitz.name=Блитц
 
-fluid.redstone=Дестабилизированный красный камень
-fluid.glowstone=Заряженный светящийся камень
-fluid.ender=Резонирующий эндер
-fluid.pyrotheum=Пылающий пиротеум
-fluid.cryotheum=Ледяной криотеум
 fluid.aerotheum=Невесомый аэротеум
 fluid.petrotheum=Тектонический петротеум
 fluid.mana=Изначальная мана
-fluid.steam=Пар
-fluid.coal=Разжиженный уголь
 
 gui.thermalfoundation.lexicon.study=Лексикон знаний
 gui.thermalfoundation.lexicon.transmute=Лексикон трансмутации

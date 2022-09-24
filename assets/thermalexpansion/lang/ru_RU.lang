@@ -1,6 +1,110 @@
 #ru_RU
 
-death.attack.pyrotheum=%1$s принял пиротеум воду!
+#Лампы
+chat.thermalexpansion.light.0=Режим: Переключено; По умолчанию: выключен
+chat.thermalexpansion.light.1=Режим: Переключено; По умолчанию: включён
+chat.thermalexpansion.light.2=Режим: Масштабированный (пропорциональный)
+chat.thermalexpansion.light.3=Режим: Масштабированный (инверсный)
+chat.thermalexpansion.light.4=Режим: Всегда выключен
+chat.thermalexpansion.light.5=Режим: Всегда включён
+message.thermalexpansion.lamp0=Режим: Переключено; По умолчанию: выключен
+message.thermalexpansion.lamp1=Режим: Переключено; По умолчанию: включён
+message.thermalexpansion.lamp2=Режим: Масштабированный (пропорциональный)
+message.thermalexpansion.lamp3=Режим: Масштабированный (инверсный)
+message.thermalexpansion.lamp4=Режим: Всегда выключен
+message.thermalexpansion.lamp5=Режим: Всегда включён
+
+#Ячейки
+info.thermalexpansion.decRecv=Уменьшить вход RF на
+info.thermalexpansion.decSend=Уменьшить выход RF на
+info.thermalexpansion.incRecv=Увеличить вход RF на
+info.thermalexpansion.incSend=Увеличить выход RF на
+info.thermalexpansion.maxIn=Макс. вход
+info.thermalexpansion.maxOut=Мак. выход
+info.thermalexpansion.cell.decRecv=Уменьшить вход RF на
+info.thermalexpansion.cell.decSend=Уменьшить выход RF на
+info.thermalexpansion.cell.incRecv=Увеличить вход RF на
+info.thermalexpansion.cell.incSend=Увеличить выход RF на
+info.thermalexpansion.cell.maxIn=Макс. вход
+info.thermalexpansion.cell.maxOut=Мак. выход
+
+#Автономный активатор
+info.thermalexpansion.angleLevel=Целится на уровне
+info.thermalexpansion.angleLow=Целится ниже
+info.thermalexpansion.angleHigh=Целится выше
+info.thermalexpansion.clickLeft=ЛКМ
+info.thermalexpansion.clickRight=ПКМ
+info.thermalexpansion.slotsFirst=Только первый слот
+info.thermalexpansion.slotsRand=Случайно использовать предметы
+info.thermalexpansion.slotsRR=Использовать предметы по кругу
+info.thermalexpansion.sneakOff=Не крадясь
+info.thermalexpansion.sneakOn=Крадясь
+info.thermalexpansion.activator.clickLeft=ЛКМ
+info.thermalexpansion.activator.clickRight=ПКМ
+info.thermalexpansion.activator.sneakOn=Крадясь
+info.thermalexpansion.activator.sneakOff=Не крадясь
+info.thermalexpansion.activator.slotsFirst=Только первый слот
+info.thermalexpansion.activator.slotsRR=Использовать предметы по кругу
+info.thermalexpansion.activator.slotsRand=Случайно использовать предметы
+info.thermalexpansion.activator.angleLow=Целится ниже
+info.thermalexpansion.activator.angleLevel=Целится на уровне
+info.thermalexpansion.activator.angleHigh=Целится выше
+
+#Buffer
+info.thermalexpansion.buffer.disableInput=Отключить вход
+info.thermalexpansion.buffer.disableOutput=Отключить выход
+info.thermalexpansion.buffer.enableInput=Включить вход
+info.thermalexpansion.buffer.enableOutput=Включить выход
+
+#Tesseract
+info.thermalexpansion.modeItem=Предметы
+info.thermalexpansion.modeFluid=Жидкости
+info.thermalexpansion.modeEnergy=Энергия
+info.thermalexpansion.modeBlocked=Отключено
+info.thermalexpansion.modeSend=Только отправлять
+info.thermalexpansion.modeRecv=Только получать
+info.thermalexpansion.modeSendRecv=Отправлять/получать
+info.thermalexpansion.inactive=Неактивен
+
+#Smelter
+info.thermalexpansion.smelter.toggleLock=Заблокировать потоковый слот
+info.thermalexpansion.smelter.toggleUnlock=Разблокировать потоковый слот
+
+#Transposer
+info.thermalexpansion.transposer.toggleEmpty=Режим: Опустошение
+info.thermalexpansion.transposer.toggleFill=Режим: Заполнение
+info.thermalexpansion.transposer.toggleWait=Режим
+
+#Insolator
+info.thermalexpansion.insolator.toggleLock=Заблокировать слот для удобрений
+info.thermalexpansion.insolator.toggleUnlock=Разблокировать слот для удобрений
+
+#Plates
+info.thermalexpansion.distance=Дистанция
+info.thermalexpansion.intensitySignal=Сила сигнала
+info.thermalexpansion.intensityImpulse=Сила запуска
+info.thermalexpansion.duration=Длительность
+
+#Workbench
+info.thermalexpansion.workbench.gridClear=Очистить сетку крафта
+info.thermalexpansion.workbench.gridSet=Назначить сетку крафта из схемы
+info.thermalexpansion.workbench.writeSchematic=Записать схему
+info.thermalexpansion.workbench.noRecipe=Нет схемы
+info.thermalexpansion.workbench.noSchematic=Нет рецепта
+info.thermalexpansion.gridClear=Очистить сетку крафта
+info.thermalexpansion.gridSet=Назначить сетку крафта из схемы
+info.thermalexpansion.noRecipe=Нет рецепта
+info.thermalexpansion.noSchematic=Нет схемы
+info.thermalexpansion.writeSchematic=Записать схему
+
+#Tier Localization
+info.thermalexpansion.creative=Творческий
+info.thermalexpansion.basic=Основной
+info.thermalexpansion.hardened=Усиленный
+info.thermalexpansion.reinforced=Укреплённый
+info.thermalexpansion.resonant=Резонирующий
+
+death.attack.pyrotheum=%1$s принял пиротеум за воду!
 death.attack.pyrotheum.player=%1$s сгорел заживо, пытаясь убежать от %2$s!
 death.attack.cryotheum=%1$s замёрз до смерти!
 death.attack.cryotheum.player=%1$s замёрз до смерти, пытаясь убежать от %2$s!
@@ -18,37 +122,12 @@ fluid.steam=Пар
 
 info.thermalexpansion.schematic=Схема
 
-info.thermalexpansion.modeItem=Предметы
-info.thermalexpansion.modeFluid=Жидкости
-info.thermalexpansion.modeEnergy=Энергия
-info.thermalexpansion.modeBlocked=Отключено
-info.thermalexpansion.modeSend=Только отправлять
-info.thermalexpansion.modeRecv=Только получать
-info.thermalexpansion.modeSendRecv=Отправлять/получать
-
 info.thermalexpansion.neihandler.furnace=Красная печь
 info.thermalexpansion.neihandler.pulverizer=Измельчитель
 info.thermalexpansion.neihandler.sawmill=Лесопилка
 info.thermalexpansion.neihandler.smelter=Индукционная плавильня
 info.thermalexpansion.neihandler.crucible=Магмовый тигель
 info.thermalexpansion.neihandler.transposer=Распределитель жидкости
-
-info.thermalexpansion.activator.clickLeft=ЛКМ
-info.thermalexpansion.activator.clickRight=ПКМ
-info.thermalexpansion.activator.sneakOn=Крадясь
-info.thermalexpansion.activator.sneakOff=Не крадясь
-info.thermalexpansion.activator.slotsFirst=Только первый слот
-info.thermalexpansion.activator.slotsRR=Использовать предметы по кругу
-info.thermalexpansion.activator.slotsRand=Случайно использовать предметы
-info.thermalexpansion.activator.angleLow=Целится ниже
-info.thermalexpansion.activator.angleLevel=Целится на уровне
-info.thermalexpansion.activator.angleHigh=Целится выше
-info.thermalexpansion.cell.decRecv=Уменьшить вход RF на
-info.thermalexpansion.cell.decSend=Уменьшить вход RF на
-info.thermalexpansion.cell.incRecv=Увеличить выход RF на
-info.thermalexpansion.cell.incSend=Увеличить выход RF на
-info.thermalexpansion.cell.maxIn=Макс. вход
-info.thermalexpansion.cell.maxOut=Мак. выход
 
 info.thermalexpansion.fluidfilter=Жидкостный фильтр
 
@@ -72,15 +151,6 @@ info.thermalexpansion.itemfilter.nbtOff=Игнорировать NBT
 info.thermalexpansion.itemfilter.incSend=Увеличить размер отправляемого стека на
 info.thermalexpansion.itemfilter.decSend=Уменьшить размер отправляемого стека на
 info.thermalexpansion.itemfilter.maxSend=Размер стека
-
-info.thermalexpansion.transposer.toggleEmpty=Переключатель: Опустошение
-info.thermalexpansion.transposer.toggleFill=Переключатель: Заполнение
-info.thermalexpansion.transposer.toggleWait=Переключатель
-
-info.thermalexpansion.workbench.gridClear=Очистить сетку крафта
-info.thermalexpansion.workbench.gridSet=Назначить сетку крафта из схемы
-info.thermalexpansion.workbench.writeTrue=Записать схему
-info.thermalexpansion.workbench.writeFalse=Нет рецепта
 
 info.thermalexpansion.capacitor1=Активируйте для зарядки удерживаемых предметов.
 info.thermalexpansion.capacitor2=Используйте крадясь для активации.
@@ -242,18 +312,11 @@ message.thermalexpansion.conduit.item3=Режим: По кругу
 
 message.thermalexpansion.conduit.item.warn0=Инвентарь предметной трубы очищен!
 message.thermalexpansion.conduit.item.warn1=Эта предметная труба содержит в себе больше 64 предметов!
-message.thermalexpansion.conduit.item.warn2=Еще одно попадание разобьет его с потерей предмета! Попробуй сначала очистить это!
+message.thermalexpansion.conduit.item.warn2=Ещё одно попадание разобьёт его с потерей предмета! Попробуй сначала очистить это!
 
 message.thermalexpansion.conduit.servo0=Для управления должен быть установлен пневматический сервомотор.
 message.thermalexpansion.conduit.servo1=Пневматический сервомотор установлен!
 message.thermalexpansion.conduit.servo2=Здесь уже установлен пневматический сервомотор!
-
-message.thermalexpansion.lamp0=Режим: Переключено; По умолчанию: выключена.
-message.thermalexpansion.lamp1=Режим: Переключено; По умолчанию: включена.
-message.thermalexpansion.lamp2=Режим: Масштабированный (пропорциональный)
-message.thermalexpansion.lamp3=Режим: Масштабированный (инверсный)
-message.thermalexpansion.lamp4=Режим: Всегда выключена
-message.thermalexpansion.lamp5=Режим: Всегда включена
 
 tile.thermalexpansion.conduit.energyBasic.name=Свинцовая энергетическая труба
 tile.thermalexpansion.conduit.energyHardened.name=Усиленная энергетическая труба
