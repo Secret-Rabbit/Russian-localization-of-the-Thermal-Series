@@ -69,7 +69,7 @@ info.cofh.locked=Закрыто
 info.cofh.loot=Лут
 info.cofh.low=Низкий
 info.cofh.output=Выход
-info.cofh.level=Количество
+info.cofh.level=Уровень
 info.cofh.maxEnergyPerTick=Макс. энерг.
 info.cofh.modeChange=для смены режима
 info.cofh.none=Пусто
@@ -155,6 +155,3 @@ message.cofh.secure2=Ты мог потерять свою руку!
 message.cofh.secureWarning=Предупреждение: Операторы сервера имеют доступ к приватным блокам.
 message.cofh.receiveConfig=Приём конфигураций сервера...
 message.cofh.restoreConfig=Восстанавливавшие конфигураций клиента...
-
-fluid.tile.water=Вода
-fluid.tile.lava=Лава
