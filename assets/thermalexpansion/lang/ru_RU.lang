@@ -1,56 +1,81 @@
-#ru_RU
-
-#Лампы
-chat.thermalexpansion.light.0=Режим: Переключено; По умолчанию: выключен
-chat.thermalexpansion.light.1=Режим: Переключено; По умолчанию: включён
-chat.thermalexpansion.light.2=Режим: Масштабированный (пропорциональный)
-chat.thermalexpansion.light.3=Режим: Масштабированный (инверсный)
-chat.thermalexpansion.light.4=Режим: Всегда выключен
-chat.thermalexpansion.light.5=Режим: Всегда включён
-tile.thermalexpansion.light.illuminator.name=Светильник из светокамня
-tile.thermalexpansion.light.lampLumiumRadiant.name=Сияющий люмиевый светильник
-tile.thermalexpansion.light.lampLumium.name=Люмиевый светильник
 #1.6
-tile.thermalexpansion.lamp.name=Светильник из светокамня
-message.thermalexpansion.lamp0=Режим: Переключено; По умолчанию: выключен
-message.thermalexpansion.lamp1=Режим: Переключено; По умолчанию: включён
-message.thermalexpansion.lamp2=Режим: Масштабированный (пропорциональный)
-message.thermalexpansion.lamp3=Режим: Масштабированный (инверсный)
-message.thermalexpansion.lamp4=Режим: Всегда выключен
-message.thermalexpansion.lamp5=Режим: Всегда включён
-
-#Ячейки
-tile.thermalexpansion.energycell.creative.name=Творческая энергетическая ячейка
-tile.thermalexpansion.energycell.basic.name=Свинцовая энергетическая ячейка
-tile.thermalexpansion.energycell.hardened.name=Усиленная энергетическая ячейка
-tile.thermalexpansion.energycell.reinforced.name=Красная энергетическая ячейка
-tile.thermalexpansion.energycell.resonant.name=Резонирующая энергетическая ячейка
-info.thermalexpansion.decRecv=Уменьшить вход RF на
-info.thermalexpansion.decSend=Уменьшить выход RF на
-info.thermalexpansion.incRecv=Увеличить вход RF на
-info.thermalexpansion.incSend=Увеличить выход RF на
-info.thermalexpansion.maxIn=Макс. вход
-info.thermalexpansion.maxOut=Мак. выход
-#1.6
-info.thermalexpansion.cell.decRecv=Уменьшить вход RF на
-info.thermalexpansion.cell.decSend=Уменьшить выход RF на
-info.thermalexpansion.cell.incRecv=Увеличить вход RF на
-info.thermalexpansion.cell.incSend=Увеличить выход RF на
-info.thermalexpansion.cell.maxIn=Макс. вход
-info.thermalexpansion.cell.maxOut=Мак. выход
-
-#Автономный активатор
-tile.thermalexpansion.device.activator.name=Автономный активатор
-info.thermalexpansion.angleLevel=Целится на уровне
-info.thermalexpansion.angleLow=Целится ниже
-info.thermalexpansion.angleHigh=Целится выше
-info.thermalexpansion.clickLeft=ЛКМ
-info.thermalexpansion.clickRight=ПКМ
-info.thermalexpansion.slotsFirst=Только первый слот
-info.thermalexpansion.slotsRand=Случайно использовать предметы
-info.thermalexpansion.slotsRR=Использовать предметы по кругу
-info.thermalexpansion.sneakOff=Не крадясь
-info.thermalexpansion.sneakOn=Крадясь
+achievement.thermalexpansion.base=Добро пожаловать в Thermal Expansion!
+achievement.thermalexpansion.base.desc=И так, начнём!
+achievement.thermalexpansion.machineFrame=Начало начал!
+achievement.thermalexpansion.machineFrame.desc=Вы ещё сделаете много таких.
+achievement.thermalexpansion.furnace=Уголь для дураков
+achievement.thermalexpansion.furnace.desc=Плавим вещи со стилем!
+achievement.thermalexpansion.pulverizer=МЕХАНИЧЕСКИЙ РАЗГРОМ!
+achievement.thermalexpansion.pulverizer.desc=Дроблёная руда.
+achievement.thermalexpansion.sawmill=Ненавижу деревья, люблю древесину
+achievement.thermalexpansion.sawmill.desc=Прям как рубка деревьев, но лучше.
+achievement.thermalexpansion.smelter=Два слитка входит, один выходит
+achievement.thermalexpansion.smelter.desc=Точно несъедобно.
+achievement.thermalexpansion.crucible=Расплавляйте ВСЁ
+achievement.thermalexpansion.crucible.desc=Да, он может делать лаву. Вы чудовище.
+achievement.thermalexpansion.transposer=Бесплатное заполнение (Почти)
+achievement.thermalexpansion.transposer.desc=Наполнять вёдра руками - тяжкий труд.
+achievement.thermalexpansion.iceGen=Снежки летят!
+achievement.thermalexpansion.iceGen.desc=Не сделай снег жёлтым.
+achievement.thermalexpansion.rockGen=Эта вещица делает камни!
+achievement.thermalexpansion.rockGen.desc=А также обсидиан!
+achievement.thermalexpansion.waterGen=Вода, вода повсюду
+achievement.thermalexpansion.waterGen.desc=Нет, с лавой это не работает. Вы чудовище.
+achievement.thermalexpansion.assembler=Порочный круг
+achievement.thermalexpansion.assembler.desc=Нет, он не будет заниматься этим крафтом.
+achievement.thermalexpansion.charger=Что такое поток?
+achievement.thermalexpansion.charger.desc=Поток не знает границ. Так что следите за своими руками.
+achievement.thermalexpansion.wrench=Выглядит как гвоздь!
+achievement.thermalexpansion.wrench.desc=Любой инструмент - это молот, если он вам *действительно нужен*.
+achievement.thermalexpansion.multimeter=Минприроды
+achievement.thermalexpansion.multimeter.desc=Здесь нет несчастных случаев, только счастливые случайности.
+achievement.thermalexpansion.florb=Я могу бросить это?!
+achievement.thermalexpansion.florb.desc=Содержит жидкость. Вы можете бросить его.
+achievement.thermalexpansion.florbMagmatic=Мир в огне
+achievement.thermalexpansion.florbMagmatic.desc=Шарик. Да, там хранится лава. Вы чудовище.
+achievement.thermalexpansion.potatoBattery=Идея наполовину готова!
+achievement.thermalexpansion.potatoBattery.desc=Кар-то-фель
+achievement.thermalexpansion.fluidRedstone=Краснокаменная революция!
+achievement.thermalexpansion.fluidRedstone.desc=Вверх - все ещё вверх, вниз - все ещё вниз. И это все ещё потрясающе.
+achievement.thermalexpansion.fluidGlowstone=Он течёт вверх?!
+achievement.thermalexpansion.fluidGlowstone.desc=Так вот как возникают эти образования! Теперь все это чепуха!
+achievement.thermalexpansion.fluidEnder=Он может течь, а может крушить.
+achievement.thermalexpansion.fluidEnder.desc=Конец - это только начало.
+achievement.thermalexpansion.fluidPyrotheum=О, БОЖЕ, ПОЧЕМУ?!
+achievement.thermalexpansion.fluidPyrotheum.desc=Это даже хуже, чем лава. Вы чудовище.
+achievement.thermalexpansion.fluidCryotheum=Зима близко
+achievement.thermalexpansion.fluidCryotheum.desc=Это ещё хуже, чем лава, только холодная. Вы йети.
+achievement.thermalexpansion.fluidCoal=Ликвидация - это спасение!
+achievement.thermalexpansion.fluidCoal.desc=Это *возможно* может быть вредным для окружающей среды.
+death.attack.pyrotheum=%1$s принял пиротеум за воду!
+death.attack.pyrotheum.player=%1$s сгорел заживо, пытаясь убежать от %2$s!
+death.attack.cryotheum=%1$s замёрз до смерти!
+death.attack.cryotheum.player=%1$s замёрз до смерти, пытаясь убежать от %2$s!
+death.attack.mana=%1$s был разорван на части сырой маной!
+death.attack.mana.player=%1$s перешёл в другое состояние бытия, пытаясь спастись от %2$s!
+death.attack.blizz=%1$s встретил холодную судьбу!
+entity.Blizz.name=Близз
+fluid.redstone=Дестабилизированный красный камень
+fluid.glowstone=Заряженный светящийся камень
+fluid.ender=Резонирующий эндер
+fluid.pyrotheum=Пылающий пиротеум
+fluid.cryotheum=Ледяной криотеум
+fluid.coal=Разжиженный уголь
+fluid.steam=Пар
+info.thermalexpansion.schematic=Схема
+info.thermalexpansion.modeItem=Предметы
+info.thermalexpansion.modeFluid=Жидкости
+info.thermalexpansion.modeEnergy=Энергия
+info.thermalexpansion.modeBlocked=Отключено
+info.thermalexpansion.modeSend=Только отправлять
+info.thermalexpansion.modeRecv=Только получать
+info.thermalexpansion.modeSendRecv=Отправлять/получать
+info.thermalexpansion.neihandler.furnace=Красная печь
+info.thermalexpansion.neihandler.pulverizer=Измельчитель
+info.thermalexpansion.neihandler.sawmill=Лесопилка
+info.thermalexpansion.neihandler.smelter=Индукционная плавильня
+info.thermalexpansion.neihandler.crucible=Магмовый тигель
+info.thermalexpansion.neihandler.transposer=Распределитель жидкости
 info.thermalexpansion.activator.clickLeft=ЛКМ
 info.thermalexpansion.activator.clickRight=ПКМ
 info.thermalexpansion.activator.sneakOn=Крадясь
@@ -61,84 +86,20 @@ info.thermalexpansion.activator.slotsRand=Случайно использова�
 info.thermalexpansion.activator.angleLow=Целится ниже
 info.thermalexpansion.activator.angleLevel=Целится на уровне
 info.thermalexpansion.activator.angleHigh=Целится выше
-
-#Буфер
-info.thermalexpansion.buffer.disableInput=Отключить вход
-info.thermalexpansion.buffer.disableOutput=Отключить выход
-info.thermalexpansion.buffer.enableInput=Включить вход
-info.thermalexpansion.buffer.enableOutput=Включить выход
-info.thermalexpansion.device.buffer=Хранит и передаёт предметы.
-
-#Тессеракт
-tile.thermalexpansion.tesseract.name=Тессеракт
-info.thermalexpansion.modeItem=Предметы
-info.thermalexpansion.modeFluid=Жидкости
-info.thermalexpansion.modeEnergy=Энергия
-info.thermalexpansion.modeBlocked=Отключено
-info.thermalexpansion.modeSend=Только отправлять
-info.thermalexpansion.modeRecv=Только получать
-info.thermalexpansion.modeSendRecv=Отправлять/получать
-info.thermalexpansion.inactive=Неактивен
-info.thermalexpansion.ender.tesseract.1=Может переносить предметы, жидкости и RF-энергию.
-
-#Верстак механика
-tile.thermalexpansion.device.workbench.name=Верстак механика
-info.thermalexpansion.workbench.gridClear=Очистить сетку крафта
-info.thermalexpansion.workbench.gridSet=Назначить сетку крафта из схемы
-info.thermalexpansion.workbench.writeSchematic=Записать схему
-info.thermalexpansion.workbench.noRecipe=Нет схемы
-info.thermalexpansion.workbench.noSchematic=Нет рецепта
-info.thermalexpansion.workbench=Создаёт вещи. Может использовать схемы для быстрого создания.
-#1.7
-tile.thermalexpansion.workbench.creative.name=Творческий верстак механика
-tile.thermalexpansion.workbench.basic.name=Верстак механика
-tile.thermalexpansion.workbench.hardened.name=Усиленный верстак механика
-tile.thermalexpansion.workbench.reinforced.name=Укреплённый верстак механика
-tile.thermalexpansion.workbench.resonant.name=Резонирующий верстак механика
-info.thermalexpansion.gridClear=Очистить сетку крафта
-info.thermalexpansion.gridSet=Назначить сетку крафта из схемы
-info.thermalexpansion.noRecipe=Нет рецепта
-info.thermalexpansion.noSchematic=Нет схемы
-info.thermalexpansion.writeSchematic=Записать схему
-
-
-#Схема
-info.thermalexpansion.schematic=Схема
-item.thermalexpansion.diagram.schematic=Схема
-
-#Красная печать
-tile.thermalexpansion.machine.furnace.name=Красная печь
-info.thermalexpansion.diagram.0=Используйте крадясь для очистки.
-info.thermalexpansion.diagram.1=Используйте на устройстве для копирования его настроек.
-info.thermalexpansion.diagram.2=Используйте на устройстве для передачи сохранённых настроек.
-
-death.attack.pyrotheum=%1$s принял пиротеум за воду!
-death.attack.pyrotheum.player=%1$s сгорел заживо, пытаясь убежать от %2$s!
-death.attack.cryotheum=%1$s замёрз до смерти!
-death.attack.cryotheum.player=%1$s замёрз до смерти, пытаясь убежать от %2$s!
-death.attack.blizz=%1$s встретил холодную судьбу!
-
-entity.Blizz.name=Близз
-
-fluid.redstone=Дестабилизированный красный камень
-fluid.glowstone=Заряженный светящийся камень
-fluid.ender=Резонирующий эндер
-fluid.pyrotheum=Пылающий пиротеум
-fluid.cryotheum=Ледяной криотеум
-fluid.coal=Разжиженный уголь
-fluid.steam=Пар
-
+info.thermalexpansion.cell.decRecv=Уменьшить вход RF на
+info.thermalexpansion.cell.decSend=Уменьшить выход RF на
+info.thermalexpansion.cell.incRecv=Увеличить вход RF на
+info.thermalexpansion.cell.incSend=Увеличить выход RF на
+info.thermalexpansion.cell.maxIn=Макс. вход
+info.thermalexpansion.cell.maxOut=Мак. выход
 info.thermalexpansion.fluidfilter=Жидкостный фильтр
-
 info.thermalexpansion.itemhud.stuffed=Передаваемые предметы
-
 info.thermalexpansion.itemfilter0=Предметный фильтр: Низ
 info.thermalexpansion.itemfilter1=Предметный фильтр: Верх
 info.thermalexpansion.itemfilter2=Предметный фильтр: Север
 info.thermalexpansion.itemfilter3=Предметный фильтр: Юг
 info.thermalexpansion.itemfilter4=Предметный фильтр: Запад
 info.thermalexpansion.itemfilter5=Предметный фильтр: Восток
-
 info.thermalexpansion.itemfilter.listBlack=Чёрный список
 info.thermalexpansion.itemfilter.listWhite=Белый список
 info.thermalexpansion.itemfilter.metadataOn=Использовать метаданные
@@ -150,44 +111,20 @@ info.thermalexpansion.itemfilter.nbtOff=Игнорировать NBT
 info.thermalexpansion.itemfilter.incSend=Увеличить размер отправляемого стека на
 info.thermalexpansion.itemfilter.decSend=Уменьшить размер отправляемого стека на
 info.thermalexpansion.itemfilter.maxSend=Размер стека
-
-#1.6
+info.thermalexpansion.transposer.toggleEmpty=Режим: Опустошение
+info.thermalexpansion.transposer.toggleFill=Режим: Заполнение
+info.thermalexpansion.transposer.toggleWait=Режим
+info.thermalexpansion.workbench.gridClear=Очистить сетку крафта
+info.thermalexpansion.workbench.gridSet=Назначить сетку крафта из схемы
+info.thermalexpansion.workbench.writeSchematic=Записать схему
+info.thermalexpansion.workbench.noRecipe=Нет схемы
+info.thermalexpansion.workbench.noSchematic=Нет рецепта
 info.thermalexpansion.capacitor1=Активируйте для зарядки удерживаемых предметов.
 info.thermalexpansion.capacitor2=Используйте крадясь, для включения.
 info.thermalexpansion.capacitor3=Заряжает удерживаемые предметы.
 info.thermalexpansion.capacitor4=Используйте крадясь для отключения.
 info.thermalexpansion.capacitor5=Должен находится на панели быстрого доступа.
-item.thermalexpansion.capacitor.capacitorPotato.name=Картофельный потоковый конденсатор
-item.thermalexpansion.capacitor.capacitorBasic.name=Свинцовый потоковый конденсатор
-item.thermalexpansion.capacitor.capacitorHardened.name=Усиленный потоковый конденсатор
-item.thermalexpansion.capacitor.capacitorReinforced.name=Красный потоковый конденсатор
-item.thermalexpansion.capacitor.capacitorResonant.name=Резонирующий потоковый конденсатор
-item.thermalexpansion.capacitor.capacitorCreative.name=Творческий потоковый конденсатор
-#1.7
-info.thermalexpansion.capacitor.0=Активируйте для зарядки удерживаемых предметов.
-info.thermalexpansion.capacitor.1=Используйте крадясь, для включения.
-info.thermalexpansion.capacitor.2=Заряжает удерживаемые предметы.
-info.thermalexpansion.capacitor.3=Используйте крадясь для отключения.
-info.thermalexpansion.capacitor.4=Должен находится на панели быстрого доступа.
 info.thermalexpansion.capacitor.potato=Умно! Но не перезаряжаемый.
-
-#Шарик
-item.thermalexpansion.florb.florb.name=Шарик
-item.thermalexpansion.florb.florbMagmatic.name=Магматический шарик
-info.thermalexpansion.florb1=Вмещает ведро большинства жидкостей.
-info.thermalexpansion.florb1a=Вмещает ведро большинства горячих жидкостей.
-info.thermalexpansion.florb2=Заполните в
-info.thermalexpansion.florb3=Да, его можно бросить.
-info.thermalexpansion.florb4=Эта жидкость легче воздуха.
-info.thermalexpansion.florb5=Шарик пролетит дальше.
-#1.7
-info.thermalexpansion.florb.0=Вмещает ведро большинства жидкостей.
-info.thermalexpansion.florb.1=Вмещает ведро большинства горячих жидкостей.
-info.thermalexpansion.florb.2=Заполните в
-info.thermalexpansion.florb.3=Да, его можно бросить.
-info.thermalexpansion.florb.4=Эта жидкость легче воздуха.
-info.thermalexpansion.florb.5=Шарик пролетит дальше.
-
 info.thermalexpansion.conduit.energy=Передаёт энергию (Redstone Flux).
 info.thermalexpansion.conduit.fluid1=Передаёт жидкость.
 info.thermalexpansion.conduit.fluid2=Скорость варьируется в зависимости от жидкости.
@@ -197,20 +134,18 @@ info.thermalexpansion.conduit.opaque=Содержимое не видно.
 info.thermalexpansion.conduit.rate=Пропускная способность
 info.thermalexpansion.conduit.servo0=Установите пневматический сервомотор для обновления.
 info.thermalexpansion.conduit.servo1=Настройте пустой рукой после обновления.
-
-
-tile.thermalexpansion.dynamo.steam.name=Паровой генератор
-tile.thermalexpansion.dynamo.magmatic.name=Магмовый генератор
-tile.thermalexpansion.dynamo.compression.name=Компрессионный генератор
-tile.thermalexpansion.dynamo.reactant.name=Реагентный генератор
 info.thermalexpansion.dynamo.generate=Генерирует RF-энергию (Redstone Flux).
 info.thermalexpansion.dynamo.steam1=Требуется вода и твёрдое топливо.
 info.thermalexpansion.dynamo.steam2=Вместо этого можно закачать пар.
 info.thermalexpansion.dynamo.magmatic=Требуется горячая жидкость.
 info.thermalexpansion.dynamo.compression=Требуется жидкое топливо и охлаждающая жидкость.
 info.thermalexpansion.dynamo.reactant=Требуется жидкое топливо и твёрдый реагент.
-info.thermalexpansion.dynamo.enervation=Извлекает поток из разных объектов.
-
+info.thermalexpansion.florb1=Вмещает ведро большинства жидкостей.
+info.thermalexpansion.florb1a=Вмещает ведро большинства горячих жидкостей.
+info.thermalexpansion.florb2=Заполните в
+info.thermalexpansion.florb3=Да, его можно бросить.
+info.thermalexpansion.florb4=Эта жидкость легче воздуха.
+info.thermalexpansion.florb5=Шарик пролетит дальше.
 item.thermalexpansion.tool.invarSword.name=Инварный меч
 item.thermalexpansion.tool.invarShovel.name=Инварная лопата
 item.thermalexpansion.tool.invarPickaxe.name=Инварная кирка
@@ -220,32 +155,28 @@ item.thermalexpansion.tool.invarShears.name=Инварные ножницы
 item.thermalexpansion.tool.invarFishingRod.name=Инварная удочка
 item.thermalexpansion.tool.invarSickle.name=Инварный серп
 item.thermalexpansion.tool.invarBattleWrench.name=Инварный боевой ключ
-item.thermalexpansion.tool.battleWrench.name=Боевой ключ
-info.thermalexpansion.tool.battleWrench=На 90% молот, на 10% ключ.
-
 item.thermalexpansion.tool.wrench.name=Серповидный молот
-info.thermalexpansion.tool.wrench.0=Конечно, это ключ.
-info.thermalexpansion.tool.wrench.1=Но любой инструмент - молот,
-info.thermalexpansion.tool.wrench.2=если он Вам нужен.
-
 item.thermalexpansion.tool.multimeter.name=Мультиметр
-info.thermalexpansion.tool.multimeter.0=Предоставляет информацию о вещах.
-info.thermalexpansion.tool.multimeter.1=Используйте крадясь для настройки некоторых устройств.
-
-item.thermalexpansion.tool.debugger.name=Предмет отладки
-
+item.thermalexpansion.tool.debugger.name=Отладчик
 item.thermalexpansion.armor.invarHelmet.name=Инварный шлем
 item.thermalexpansion.armor.invarPlate.name=Инварная кираса
 item.thermalexpansion.armor.invarLegs.name=Инварные поножи
 item.thermalexpansion.armor.invarBoots.name=Инварные ботинки
-
 item.thermalexpansion.bucket.bucketRedstone.name=Ведро дестабилизированного красного камня
 item.thermalexpansion.bucket.bucketGlowstone.name=Ведро заряженного светящегося камня
 item.thermalexpansion.bucket.bucketEnder.name=Ведро резонирующего эндера
 item.thermalexpansion.bucket.bucketPyrotheum.name=Ведро пылающего пиротеума
 item.thermalexpansion.bucket.bucketCryotheum.name=Ведро ледяного криотеума
 item.thermalexpansion.bucket.bucketCoal.name=Ведро разжиженного угля
-
+item.thermalexpansion.capacitor.capacitorPotato.name=Картофельный потоковый конденсатор
+item.thermalexpansion.capacitor.capacitorBasic.name=Свинцовый потоковый конденсатор
+item.thermalexpansion.capacitor.capacitorHardened.name=Усиленный потоковый конденсатор
+item.thermalexpansion.capacitor.capacitorReinforced.name=Красный потоковый конденсатор
+item.thermalexpansion.capacitor.capacitorResonant.name=Резонирующий потоковый конденсатор
+item.thermalexpansion.capacitor.capacitorCreative.name=Творческий потоковый конденсатор
+item.thermalexpansion.diagram.schematic=Схема
+item.thermalexpansion.florb.florb.name=Шарик
+item.thermalexpansion.florb.florbMagmatic.name=Магматический шарик
 item.thermalexpansion.component.machineFrame.name=Рамка механизма
 item.thermalexpansion.component.cellBasicFrame.name=Рамка свинцовой энергетической ячейки
 item.thermalexpansion.component.cellReinforcedFrameEmpty.name=Рамка красной энергетической ячейки (пустая)
@@ -254,12 +185,10 @@ item.thermalexpansion.component.conduitEnergyReinforcedEmpty.name=Красная
 item.thermalexpansion.component.tesseractFrameEmpty.name=Рамка тессеракта (пустая)
 item.thermalexpansion.component.tesseractFrameFull.name=Рамка тессеракта (полная)
 item.thermalexpansion.component.lampFrame.name=Рамка светильника
-
 item.thermalexpansion.material.dustIron.name=Измельчённое железо
 item.thermalexpansion.material.dustGold.name=Измельчённое золото
 item.thermalexpansion.material.dustCoal.name=Измельчённый уголь
 item.thermalexpansion.material.dustObsidian.name=Измельчённый обсидиан
-
 item.thermalexpansion.material.dustCopper.name=Измельчённая медь
 item.thermalexpansion.material.dustTin.name=Измельчённое олово
 item.thermalexpansion.material.dustSilver.name=Измельчённое серебро
@@ -270,7 +199,6 @@ item.thermalexpansion.material.dustElectrum.name=Электрумовая сме
 item.thermalexpansion.material.dustInvar.name=Инварная смесь
 item.thermalexpansion.material.dustBronze.name=Бронзовая смесь
 item.thermalexpansion.material.dustEnderium.name=Эндериевая смесь
-
 item.thermalexpansion.material.ingotCopper.name=Медный слиток
 item.thermalexpansion.material.ingotTin.name=Оловянный слиток
 item.thermalexpansion.material.ingotSilver.name=Серебряный слиток
@@ -281,7 +209,6 @@ item.thermalexpansion.material.ingotElectrum.name=Электрумовый сл�
 item.thermalexpansion.material.ingotInvar.name=Инварный слиток
 item.thermalexpansion.material.ingotBronze.name=Бронзовый слиток
 item.thermalexpansion.material.ingotEnderium.name=Эндериевый слиток
-
 item.thermalexpansion.material.nuggetCopper.name=Кусочек меди
 item.thermalexpansion.material.nuggetTin.name=Кусочек олова
 item.thermalexpansion.material.nuggetSilver.name=Кусочек серебра
@@ -292,11 +219,9 @@ item.thermalexpansion.material.nuggetElectrum.name=Кусочек электру
 item.thermalexpansion.material.nuggetInvar.name=Кусочек инвара
 item.thermalexpansion.material.nuggetBronze.name=Кусочек бронзы
 item.thermalexpansion.material.nuggetEnderium.name=Кусочек электрума
-
 item.thermalexpansion.material.dustSulfur.name=Сера
 item.thermalexpansion.material.dustNiter.name=Селитра
 item.thermalexpansion.material.crystalCinnabar.name=Киноварь
-
 item.thermalexpansion.material.woodchips.name=Древесная щепка
 item.thermalexpansion.material.sawdust.name=Опилки
 item.thermalexpansion.material.sawdustCompressed.name=Прессованные опилки
@@ -304,45 +229,42 @@ item.thermalexpansion.material.slag.name=Шлак
 item.thermalexpansion.material.slagRich.name=Обогащённый шлак
 item.thermalexpansion.material.dustPyrotheum.name=Пыль пиротеума
 item.thermalexpansion.material.dustCryotheum.name=Пыль криотеума
-
 item.thermalexpansion.material.pneumaticServo.name=Пневматический сервомотор
 item.thermalexpansion.material.powerCoilGold.name=Красная принимающая катушка
 item.thermalexpansion.material.powerCoilSilver.name=Красная отдающая катушка
 item.thermalexpansion.material.powerCoilElectrum.name=Красная проводящая катушка
-
 item.thermalexpansion.material.gearCopper.name=Медная шестерня
 item.thermalexpansion.material.gearTin.name=Оловянная шестерня
 item.thermalexpansion.material.gearElectrum.name=Электрумовая шестерня
 item.thermalexpansion.material.gearInvar.name=Инварная шестерня
 item.thermalexpansion.material.gearBronze.name=Бронзовая шестерня
 item.thermalexpansion.material.gearEnderium.name=Эндериевая шестерня
-
 item.thermalexpansion.material.rodBlizz.name=Стержень Близза
 item.thermalexpansion.material.dustBlizz.name=Порошок Близза
-
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Блоки
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Инструменты
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Предметы
 itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Шарики
-
 message.thermalexpansion.conduit.energy0=Насыщенность сети
 message.thermalexpansion.conduit.energy1=Статистика за 20 тактов
 message.thermalexpansion.conduit.energy2=Среднее распределение
 message.thermalexpansion.conduit.energy3=тактов
-
 message.thermalexpansion.conduit.item0=Режим: Нормальный
 message.thermalexpansion.conduit.item1=Режим: Плотный
 message.thermalexpansion.conduit.item2=Режим: Вакуумный
 message.thermalexpansion.conduit.item3=Режим: По кругу
-
 message.thermalexpansion.conduit.item.warn0=Инвентарь предметной трубы очищен!
 message.thermalexpansion.conduit.item.warn1=Эта предметная труба содержит в себе больше 64 предметов!
 message.thermalexpansion.conduit.item.warn2=Ещё одно попадание разобьёт его с потерей предмета! Попробуй сначала очистить это!
-
 message.thermalexpansion.conduit.servo0=Для управления должен быть установлен пневматический сервомотор.
 message.thermalexpansion.conduit.servo1=Пневматический сервомотор установлен!
 message.thermalexpansion.conduit.servo2=Здесь уже установлен пневматический сервомотор!
-
+message.thermalexpansion.lamp0=Режим: Переключаемый; По умолчанию: выключен
+message.thermalexpansion.lamp1=Режим: Переключаемый; По умолчанию: включён
+message.thermalexpansion.lamp2=Режим: Масштабированный (пропорциональный)
+message.thermalexpansion.lamp3=Режим: Масштабированный (инверсный)
+message.thermalexpansion.lamp4=Режим: Всегда выключен
+message.thermalexpansion.lamp5=Режим: Всегда включён
 tile.thermalexpansion.conduit.energyBasic.name=Свинцовая энергетическая труба
 tile.thermalexpansion.conduit.energyHardened.name=Усиленная энергетическая труба
 tile.thermalexpansion.conduit.energyReinforced.name=Красная энергетическая труба
@@ -352,10 +274,21 @@ tile.thermalexpansion.conduit.itemTrans.name=Предметная труба
 tile.thermalexpansion.conduit.itemOpaque.name=Предметная труба (непрозрачная)
 tile.thermalexpansion.conduit.itemFastTrans.name=Импульсная предметная труба
 tile.thermalexpansion.conduit.itemFastOpaque.name=Импульсная предметная труба (непрозрачная)
-
+tile.thermalexpansion.device.workbench.name=Верстак механика
+tile.thermalexpansion.device.tinkerbench.name=Верстак механика
+tile.thermalexpansion.device.activator.name=Автономный активатор
 tile.thermalexpansion.device.breaker.name=Разрушитель территории
 tile.thermalexpansion.device.nullifier.name=Аннулятор
-
+tile.thermalexpansion.device.lexicon.name=Лексикон Forge
+tile.thermalexpansion.dynamo.steam.name=Паровой генератор
+tile.thermalexpansion.dynamo.magmatic.name=Магмовый генератор
+tile.thermalexpansion.dynamo.compression.name=Компрессионный генератор
+tile.thermalexpansion.dynamo.reactant.name=Реагентный генератор
+tile.thermalexpansion.energycell.creative.name=Творческая энергетическая ячейка
+tile.thermalexpansion.energycell.basic.name=Свинцовая энергетическая ячейка
+tile.thermalexpansion.energycell.hardened.name=Усиленная энергетическая ячейка
+tile.thermalexpansion.energycell.reinforced.name=Красная энергетическая ячейка
+tile.thermalexpansion.energycell.resonant.name=Резонирующая энергетическая ячейка
 tile.thermalexpansion.fluid.redstone.name=Дестабилизированный красный камень
 tile.thermalexpansion.fluid.glowstone.name=Заряженный светящийся камень
 tile.thermalexpansion.fluid.ender.name=Резонирующий эндер
@@ -363,118 +296,28 @@ tile.thermalexpansion.fluid.pyrotheum.name=Пылающий пиротеум
 tile.thermalexpansion.fluid.cryotheum.name=Ледяной криотеум
 tile.thermalexpansion.fluid.coal.name=Разжиженный уголь
 tile.thermalexpansion.fluid.steam.name=Пар
-
 tile.thermalexpansion.glass.name=Закалённое стекло
-tile.thermalexpansion.glassLumium.name=Закалённое Люмиевое стекло
-
+tile.thermalexpansion.lamp.name=Светильник из светокамня
 tile.thermalexpansion.machine.furnace.name=Красная печь
-info.thermalexpansion.neihandler.furnace=Красная печь
-tile.thermalexpansion.machine.furnace.creative.name=Творческая красная печь
-tile.thermalexpansion.machine.furnace.basic.name=Основная красная печь
-tile.thermalexpansion.machine.furnace.hardened.name=Усиленная красная печь
-tile.thermalexpansion.machine.furnace.reinforced.name=Укреплённая красная печь
-tile.thermalexpansion.machine.furnace.resonant.name=Резонирующая красная печь
-
 tile.thermalexpansion.machine.pulverizer.name=Измельчитель
-info.thermalexpansion.neihandler.pulverizer=Измельчитель
-tile.thermalexpansion.machine.pulverizer.creative.name=Творческий измельчитель
-tile.thermalexpansion.machine.pulverizer.basic.name=Основной измельчитель
-tile.thermalexpansion.machine.pulverizer.hardened.name=Усиленный измельчитель
-tile.thermalexpansion.machine.pulverizer.reinforced.name=Укреплённый измельчитель
-tile.thermalexpansion.machine.pulverizer.resonant.name=Резонирующий измельчитель
-
 tile.thermalexpansion.machine.sawmill.name=Лесопилка
-info.thermalexpansion.neihandler.sawmill=Лесопилка
-tile.thermalexpansion.machine.sawmill.creative.name=Творческая лесопилка
-tile.thermalexpansion.machine.sawmill.basic.name=Основная лесопилка
-tile.thermalexpansion.machine.sawmill.hardened.name=Усиленная лесопилка
-tile.thermalexpansion.machine.sawmill.reinforced.name=Укреплённая лесопилка
-tile.thermalexpansion.machine.sawmill.resonant.name=Резонирующая лесопилка
-
 tile.thermalexpansion.machine.smelter.name=Индукционная плавильня
-info.thermalexpansion.neihandler.smelter=Индукционная плавильня
-tile.thermalexpansion.machine.smelter.creative.name=Творческая индукционная плавильня
-tile.thermalexpansion.machine.smelter.basic.name=Основная индукционная плавильня
-tile.thermalexpansion.machine.smelter.hardened.name=Усиленная индукционная плавильня
-tile.thermalexpansion.machine.smelter.reinforced.name=Укреплённая индукционная плавильня
-tile.thermalexpansion.machine.smelter.resonant.name=Резонирующая индукционная плавильня
-info.thermalexpansion.smelter.toggleLock=Заблокировать потоковый слот
-info.thermalexpansion.smelter.toggleUnlock=Разблокировать потоковый слот
-info.thermalexpansion.machine.smelter=Выплавляет сплавы и металлы.
-
 tile.thermalexpansion.machine.crucible.name=Магмовый тигель
-info.thermalexpansion.neihandler.crucible=Магмовый тигель
-tile.thermalexpansion.machine.crucible.creative.name=Творческий магмовый тигель
-tile.thermalexpansion.machine.crucible.basic.name=Основной магмовый тигель
-tile.thermalexpansion.machine.crucible.hardened.name=Усиленный магмовый тигель
-tile.thermalexpansion.machine.crucible.reinforced.name=Укреплённый магмовый тигель
-tile.thermalexpansion.machine.crucible.resonant.name=Резонирующий магмовый тигель
-
 tile.thermalexpansion.machine.transposer.name=Распределитель жидкости
-info.thermalexpansion.neihandler.transposer=Распределитель жидкости
-tile.thermalexpansion.machine.transposer.creative.name=Творческий распределитель жидкости
-tile.thermalexpansion.machine.transposer.basic.name=Основной распределитель жидкости
-tile.thermalexpansion.machine.transposer.hardened.name=Усиленный распределитель жидкости
-tile.thermalexpansion.machine.transposer.reinforced.name=Укреплённый распределитель жидкости
-tile.thermalexpansion.machine.transposer.resonant.name=Резонирующий распределитель жидкости
-info.thermalexpansion.transposer.toggleEmpty=Режим: Опустошение
-info.thermalexpansion.transposer.toggleFill=Режим: Заполнение
-info.thermalexpansion.transposer.toggleWait=Режим
-
 tile.thermalexpansion.machine.iceGen.name=Ледниковый осадитель
-tile.thermalexpansion.machine.precipitator.name=Ледниковый осадитель
-tile.thermalexpansion.machine.precipitator.creative.name=Творческий ледниковый осадитель
-tile.thermalexpansion.machine.precipitator.basic.name=Основной ледниковый осадитель
-tile.thermalexpansion.machine.precipitator.hardened.name=Усиленный ледниковый осадитель
-tile.thermalexpansion.machine.precipitator.reinforced.name=Укреплённый ледниковый осадитель
-tile.thermalexpansion.machine.precipitator.resonant.name=Резонирующий ледниковый осадитель
-
 tile.thermalexpansion.machine.rockGen.name=Вулканический пресс
-tile.thermalexpansion.machine.extruder.name=Вулканический пресс
-tile.thermalexpansion.machine.extruder.creative.name=Творческий вулканический пресс
-tile.thermalexpansion.machine.extruder.basic.name=Основной вулканический пресс
-tile.thermalexpansion.machine.extruder.hardened.name=Усиленный вулканический пресс
-tile.thermalexpansion.machine.extruder.reinforced.name=Укреплённый вулканический пресс
-tile.thermalexpansion.machine.extruder.resonant.name=Резонирующий вулканический пресс
-
 tile.thermalexpansion.machine.waterGen.name=Водный накопитель
-tile.thermalexpansion.machine.accumulator.name=Водяной накопитель
-tile.thermalexpansion.machine.accumulator.creative.name=Творческий водяной накопитель
-tile.thermalexpansion.machine.accumulator.basic.name=Основной водяной накопитель
-tile.thermalexpansion.machine.accumulator.hardened.name=Усиленный водяной накопитель
-tile.thermalexpansion.machine.accumulator.reinforced.name=Укреплённый водяной накопитель
-tile.thermalexpansion.machine.accumulator.resonant.name=Резонирующий водяной накопитель
-
 tile.thermalexpansion.machine.assembler.name=Циклический сборщик
-tile.thermalexpansion.machine.assembler.creative.name=Творческий циклический сборщик
-tile.thermalexpansion.machine.assembler.basic.name=Основной циклический сборщик
-tile.thermalexpansion.machine.assembler.hardened.name=Усиленный циклический сборщик
-tile.thermalexpansion.machine.assembler.reinforced.name=Укреплённый циклический сборщик
-tile.thermalexpansion.machine.assembler.resonant.name=Резонирующий циклический сборщик
-
 tile.thermalexpansion.machine.charger.name=Энергетический зарядник
-tile.thermalexpansion.machine.charger.creative.name=Творческий энергетический зарядник
-tile.thermalexpansion.machine.charger.basic.name=Основной энергетический зарядник
-tile.thermalexpansion.machine.charger.hardened.name=Усиленный энергетический зарядник
-tile.thermalexpansion.machine.charger.reinforced.name=Укреплённый энергетический зарядник
-tile.thermalexpansion.machine.charger.resonant.name=Резонирующий энергетический зарядник
-
-tile.thermalexpansion.machine.insolator.name=Фитогенный облучатель
-tile.thermalexpansion.machine.insolator.creative.name=Творческий фитогенный облучатель
-tile.thermalexpansion.machine.insolator.basic.name=Основной фитогенный облучатель
-tile.thermalexpansion.machine.insolator.hardened.name=Усиленный фитогенный облучатель
-tile.thermalexpansion.machine.insolator.reinforced.name=Укреплённый фитогенный облучатель
-tile.thermalexpansion.machine.insolator.resonant.name=Резонирующий фитогенный облучатель
-info.thermalexpansion.insolator.toggleLock=Заблокировать слот для удобрений
-info.thermalexpansion.insolator.toggleUnlock=Разблокировать слот для удобрений
-
-#1.6
 tile.thermalexpansion.ore.copper.name=Медная руда
 tile.thermalexpansion.ore.tin.name=Оловянная руда
 tile.thermalexpansion.ore.silver.name=Серебряная руда
 tile.thermalexpansion.ore.lead.name=Свинцовая руда
 tile.thermalexpansion.ore.nickel.name=Никелевая руда
-
+tile.thermalexpansion.ore.platinum.name=Платиновая руда
+tile.thermalexpansion.plate.signal.name=Красная пластина
+tile.thermalexpansion.plate.impulse.name=Импульсная пластина
+tile.thermalexpansion.plate.translocate.name=Транслокационная пластина
 tile.thermalexpansion.rockwool.black.name=Чёрная минеральная шерсть
 tile.thermalexpansion.rockwool.red.name=Красная минеральная шерсть
 tile.thermalexpansion.rockwool.green.name=Зелёная минеральная шерсть
@@ -491,7 +334,6 @@ tile.thermalexpansion.rockwool.lightBlue.name=Голубая минеральн�
 tile.thermalexpansion.rockwool.magenta.name=Фиолетовая минеральная шерсть
 tile.thermalexpansion.rockwool.orange.name=Оранжевая минеральная шерсть
 tile.thermalexpansion.rockwool.white.name=Белая минеральная шерсть
-
 tile.thermalexpansion.storage.copper.name=Медный блок
 tile.thermalexpansion.storage.tin.name=Оловянный блок
 tile.thermalexpansion.storage.silver.name=Серебряный блок
@@ -502,24 +344,21 @@ tile.thermalexpansion.storage.electrum.name=Электрумовый блок
 tile.thermalexpansion.storage.invar.name=Инварный блок
 tile.thermalexpansion.storage.bronze.name=Бронзовый блок
 tile.thermalexpansion.storage.enderium.name=Эндериевый блок
-
 tile.thermalexpansion.strongbox.creative.name=Творческий сейф
 tile.thermalexpansion.strongbox.basic.name=Сейф
 tile.thermalexpansion.strongbox.hardened.name=Усиленный сейф
 tile.thermalexpansion.strongbox.reinforced.name=Укреплённый сейф
 tile.thermalexpansion.strongbox.resonant.name=Резонирующий сейф
-
 tile.thermalexpansion.tank.creative.name=Творческий переносной резервуар
 tile.thermalexpansion.tank.basic.name=Переносной резервуар
 tile.thermalexpansion.tank.hardened.name=Усиленный переносной резервуар
 tile.thermalexpansion.tank.reinforced.name=Укреплённый переносной резервуар
 tile.thermalexpansion.tank.resonant.name=Резонирующий переносной резервуар
-
-#Fixes for bad localizations
+tile.thermalexpansion.tesseract.name=Тессеракт
 fluid.tile.water=Вода
 fluid.tile.lava=Лава
 fluid.fuel=Топливо
-fluid.oil=Масло
+fluid.oil=Нефть
 fluid.ic2.blockfluidCf=Жидкая строительная пена
 fluid.ic2.blockFluidcoolant=Хладагент
 fluid.ic2.blockfluidUuMatter=Жидкая материя
@@ -533,40 +372,440 @@ fluid.mfr.liquid.pinkslime.still=Розовая слизь
 fluid.mfr.liquid.sewage.still=Навоз
 fluid.mfr.liquid.sludge.still=Шлам
 
-#Расширения
-info.thermalexpansion.augment.generalReconfigSides.0=Позволяет настраивать стороны устройства.
-info.thermalexpansion.augment.generalRedstoneControl=Управление сигналом красного камня
-info.thermalexpansion.augment.generalRedstoneControl.0=Позволяет настроить реакцию механизма на сигнал красного камня
-info.thermalexpansion.augment.requireRS=Требуется установленное управление сигналом красного камня.
-
-#Уровни
+#1.7
+achievement.thermalexpansion.precipitator=Снежки летят!
+achievement.thermalexpansion.precipitator.desc=Не сделай снег жёлтым.
+achievement.thermalexpansion.extruder=Эта вещица делает камни!
+achievement.thermalexpansion.extruder.desc=А также обсидиан!
+achievement.thermalexpansion.accumulator=Вода, вода повсюду
+achievement.thermalexpansion.accumulator.desc=ет, с лавой это не работает. Вы чудовище.
+achievement.thermalexpansion.insolator=Солнце в коробке!
+achievement.thermalexpansion.insolator.desc=Определённо не органика.
+achievement.thermalexpansion.schematic=Никаких махинаций
+achievement.thermalexpansion.schematic.desc=Это скорее план.
+achievement.thermalexpansion.capacitorPotato=Идея наполовину готова!
+achievement.thermalexpansion.capacitorPotato.desc=Кар-то-фель
+achievement.thermalexpansion.fluidMana=Когда магия встречается с техникой.
+achievement.thermalexpansion.fluidMana.desc=Что это, я даже не знаю?
+chat.thermalexpansion.light.0=Режим: Переключаемый; По умолчанию: выключен
+chat.thermalexpansion.light.1=Режим: Переключаемый; По умолчанию: включён
+chat.thermalexpansion.light.2=Режим: Масштабированный (пропорциональный)
+chat.thermalexpansion.light.3=Режим: Масштабированный (инверсный)
+chat.thermalexpansion.light.4=Режим: Всегда выключен
+chat.thermalexpansion.light.5=Режим: Всегда включён
+#Cell
+info.thermalexpansion.decRecv=Уменьшить вход RF на
+info.thermalexpansion.decSend=Уменьшить выход RF на
+info.thermalexpansion.incRecv=Увеличить вход RF на
+info.thermalexpansion.incSend=Увеличить выход RF на
+info.thermalexpansion.maxIn=Макс. вход
+info.thermalexpansion.maxOut=Мак. выход
+#Activator
+info.thermalexpansion.angleLevel=Целится на уровне
+info.thermalexpansion.angleLow=Целится ниже
+info.thermalexpansion.angleHigh=Целится выше
+info.thermalexpansion.clickLeft=ЛКМ
+info.thermalexpansion.clickRight=ПКМ
+info.thermalexpansion.slotsFirst=Только первый слот
+info.thermalexpansion.slotsRand=Случайно использовать предметы
+info.thermalexpansion.slotsRR=Использовать предметы по кругу
+info.thermalexpansion.sneakOff=Не крадясь
+info.thermalexpansion.sneakOn=Крадясь
+#Buffer
+info.thermalexpansion.buffer.disableInput=Отключить вход
+info.thermalexpansion.buffer.disableOutput=Отключить выход
+info.thermalexpansion.buffer.enableInput=Включить вход
+info.thermalexpansion.buffer.enableOutput=Включить выход
+#Tesseract
+info.thermalexpansion.inactive=Неактивен
+#Smelter
+info.thermalexpansion.smelter.toggleLock=Заблокировать потоковый слот
+info.thermalexpansion.smelter.toggleUnlock=Разблокировать потоковый слот
+#Transposer
+#Insolator
+info.thermalexpansion.insolator.toggleLock=Заблокировать слот удобрений
+info.thermalexpansion.insolator.toggleUnlock=Разблокировать слот удобрений
+info.thermalexpansion.distance=Дистанция
+info.thermalexpansion.intensitySignal=Сила сигнала
+info.thermalexpansion.intensityImpulse=Сила запуска
+info.thermalexpansion.duration=Продолжительность
+#Workbench
+info.thermalexpansion.gridClear=Очистить сетку крафта
+info.thermalexpansion.gridSet=Назначить сетку крафта из схемы
+info.thermalexpansion.noRecipe=Нет рецепта
+info.thermalexpansion.noSchematic=Нет схемы
+info.thermalexpansion.writeSchematic=Записать схему
+#Tier Localization
 info.thermalexpansion.creative=Творческий
 info.thermalexpansion.basic=Основной
 info.thermalexpansion.hardened=Усиленный
 info.thermalexpansion.reinforced=Укреплённый
 info.thermalexpansion.resonant=Резонирующий
-
-#Пластины
+info.thermalexpansion.augment=Расширение
+info.thermalexpansion.augment.energyProduced=Энергии произведено
+info.thermalexpansion.augment.energyUsed=Энергии использовано
+info.thermalexpansion.augment.fuelConsumed=Топлива потреблено
+info.thermalexpansion.augment.fuelEnergy=Основная энергия топлива
+info.thermalexpansion.augment.levels.0=Требует установку предыдущих уровней.
+info.thermalexpansion.augment.levels.1=Используется расширение высшего уровня.
+info.thermalexpansion.augment.machine.0=Требуется
+info.thermalexpansion.augment.machine.1=механизм
+info.thermalexpansion.augment.requireRS=Требуется установленное управление сигналом красного камня.
+info.thermalexpansion.augment.perOperation=За операцию
+info.thermalexpansion.augment.production=Производство
+info.thermalexpansion.augment.secondaryChance=Вторичный шанс
+info.thermalexpansion.augment.speed=Скорость
+info.thermalexpansion.augment.upTo=До
+info.thermalexpansion.augment.waterConsumed=Потребление воды
+info.thermalexpansion.augment.dynamoCoilDuct=Генератор: Доступность сторон
+info.thermalexpansion.augment.dynamoCoilDuct.0=Позволяет вставлять и извлекать что либо через катушку генератора.
+info.thermalexpansion.augment.dynamoEfficiency=Генератор: Эффективность топлива
+info.thermalexpansion.augment.dynamoOutput=Генератор: Выход энергии
+info.thermalexpansion.augment.dynamoThrottle=Генератор: Продвинутое регулирование
+info.thermalexpansion.augment.dynamoThrottle.0=Понижает мин. выход генератора до 0 RF/т.
+info.thermalexpansion.augment.generalAutoOutput=Автоматический выход
+info.thermalexpansion.augment.generalAutoOutput.0=Автоматический вывод продуктов из устройства.
+info.thermalexpansion.augment.generalAutoInput=Автоматический вход
+info.thermalexpansion.augment.generalAutoInput.0=Автоматический ввод продуктов в устройство.
+info.thermalexpansion.augment.generalReconfigSides=Настраиваемые стороны
+info.thermalexpansion.augment.generalReconfigSides.0=Позволяет настраивать стороны устройства.
+info.thermalexpansion.augment.generalRedstoneControl=Управление сигналом красного камня
+info.thermalexpansion.augment.generalRedstoneControl.0=Позволяет настроить реакцию механизма на сигнал красного камня.
+info.thermalexpansion.augment.machineSecondary=Механизм: Вторичный выход
+info.thermalexpansion.augment.machineSpeed=Механизм: Скорость обработки
+info.thermalexpansion.augment.machineNull=Механизм: Вторичный аннулятор
+info.thermalexpansion.augment.machineNull.0=Уничтожает лишние вторичные продукты.
+info.thermalexpansion.augment.machineFurnaceFood=Красная печь: Специализация
+info.thermalexpansion.augment.machineFurnaceFood.0=Увеличивает выход еды.
+info.thermalexpansion.augment.machineFurnaceFood.1=Может готовить только еду.
+info.thermalexpansion.augment.machineExtruderBoost=Вулканический пресс: Размер партии
+info.thermalexpansion.capacitor.0=Активируйте для зарядки удерживаемых предметов.
+info.thermalexpansion.capacitor.1=Используйте крадясь, для включения.
+info.thermalexpansion.capacitor.2=Заряжает удерживаемые предметы.
+info.thermalexpansion.capacitor.3=Используйте крадясь для отключения.
+info.thermalexpansion.capacitor.4=Должен находится на панели быстрого доступа.
+info.thermalexpansion.device.activator=Делает больше, чем может объяснить всплывающая подсказка.
+info.thermalexpansion.device.breaker=Ломает блоки. Прост в использовании.
+info.thermalexpansion.device.buffer=Хранит и передаёт предметы.
+info.thermalexpansion.device.collector=Собирает ближайшие предметы.
+info.thermalexpansion.device.nullifier=Уничтожает предметы навсегда.
+info.thermalexpansion.diagram.0=Используйте крадясь для очистки.
+info.thermalexpansion.diagram.1=Используйте на устройстве для копирования его настроек.
+info.thermalexpansion.diagram.2=Используйте на устройстве для передачи сохранённых настроек.
+info.thermalexpansion.dynamo.steam=Требуется вода и твёрдое топливо.
+info.thermalexpansion.dynamo.steam.0=Также можно использовать пар.
+info.thermalexpansion.dynamo.enervation=Извлекает поток из разных объектов.
+info.thermalexpansion.ender.tesseract.0=Уникальная точка в пространстве.
+info.thermalexpansion.ender.tesseract.1=Может переносить предметы, жидкости и RF.
+info.thermalexpansion.light.0=Светится в зависимости от уровня сигнала красного камня
+info.thermalexpansion.light.1=Может быть практически любого цвета.
+info.thermalexpansion.machine.furnace=Плавит предметы.
+info.thermalexpansion.machine.pulverizer=Разбивает предметы.
+info.thermalexpansion.machine.sawmill=Обеспечивает дополнительную древесину.
+info.thermalexpansion.machine.smelter=Выплавляет сплавы и металлы.
+info.thermalexpansion.machine.crucible=Расплавляет предметы в жидкости.
+info.thermalexpansion.machine.transposer=Манипуляции с жидкостями и контейнерами для жидкостей.
+info.thermalexpansion.machine.precipitator=Замораживает жидкости в твёрдые материалы.
+info.thermalexpansion.machine.extruder=Смешивает горячие и холодные жидкости.
+info.thermalexpansion.machine.accumulator=Собирает воду из окружающей среды.
+info.thermalexpansion.machine.assembler=Создаёт предметы.
+info.thermalexpansion.machine.charger=Заряжает вещи RF-энергией.
+info.thermalexpansion.machine.insolator=Наполняет растения энергией 'солнца' и RF.
+info.thermalexpansion.plate.signal=Излучает сигнал красного камня при контакте.
+info.thermalexpansion.plate.impulse=Придаёт движение вещам при контакте.
+info.thermalexpansion.plate.translocate=Телепортирует вещи при контакте.
+info.thermalexpansion.plate.charge=Заряжает вещи при контакте.
 info.thermalexpansion.plate.excursion=Проецирует силовой луч.
-info.thermalexpansion.plate.teleport=Телепортирует вещи на связанную пластину.
-info.thermalexpansion.plate.charge.playersOnly=Заряжать только предметы у игроков
-info.thermalexpansion.plate.charge.anything=Заряжать предметы и предметы у игроков
+info.thermalexpansion.plate.teleport=Телепортирует вещи на привязанную пластину.
+info.thermalexpansion.plate.charge.playersOnly=Заряжать только предметы у игроков.
+info.thermalexpansion.plate.charge.anything=Заряжать предметы и предметы у игроков.
+info.thermalexpansion.rockwool.default=Создаётся путём обжига шлака.
+info.thermalexpansion.rockwool.dyed=Получена путём окраски другой минеральной шерсти.
+info.thermalexpansion.workbench=Создаёт вещи. Может использовать схемы для быстрого создания.
+info.thermalexpansion.florb.0=Вмещает ведро большинства жидкостей.
+info.thermalexpansion.florb.1=Вмещает ведро большинства горячих жидкостей.
+info.thermalexpansion.florb.2=Заполните в
+info.thermalexpansion.florb.3=Да, его можно бросить.
+info.thermalexpansion.florb.4=Эта жидкость легче воздуха.
+info.thermalexpansion.florb.5=Шарик пролетит дальше.
+info.thermalexpansion.tool.battleWrench=На 90% молот, на 10% ключ.
+info.thermalexpansion.tool.chiller=Замораживает вещи на расстоянии.
+info.thermalexpansion.tool.igniter=Зажигает огонь на расстоянии.
+info.thermalexpansion.tool.multimeter.0=Предоставляет информацию о вещах.
+info.thermalexpansion.tool.multimeter.1=Используйте крадясь для настройки некоторых устройств.
+info.thermalexpansion.tool.pump=Перекачивает жидкости в и из совместимых ёмкостей.
+info.thermalexpansion.tool.transfuser=Заряжает RF совместимые предметы и устройства, а также забирает RF из них.
+info.thermalexpansion.tool.wrench.0=Конечно, это ключ.
+info.thermalexpansion.tool.wrench.1=Но любой инструмент - молот,
+info.thermalexpansion.tool.wrench.2=если он Вам нужен.
+info.thermalexpansion.multimeter=Используйте мультиметр крадясь, чтобы настроить.
+info.thermalexpansion.securable=Закрывается на замок.
+info.thermalexpansion.storage.enchant=Может быть зачарован, чтобы вмещать больше предметов.
+info.thermalexpansion.wrench=Используйте ключ крадясь, чтобы демонтировать.
+#Items
+item.thermalexpansion.augment.dynamoCoilDuct.name=Канал отдающей катушки
+item.thermalexpansion.augment.dynamoThrottle.name=Ограничитель поля намагничивания
+item.thermalexpansion.augment.dynamoEfficiency0.name=Вторичный редуктор
+item.thermalexpansion.augment.dynamoEfficiency1.name=Оптимизация потоковой связи
+item.thermalexpansion.augment.dynamoEfficiency2.name=Регулятор криогенной катушки
+item.thermalexpansion.augment.dynamoOutput0.name=Вторичная отдающая катушка
+item.thermalexpansion.augment.dynamoOutput1.name=Усилитель модуляции потока
+item.thermalexpansion.augment.dynamoOutput2.name=Потоковый усилитель криогенной катушки
+item.thermalexpansion.augment.generalAutoOutput.name=Интегрированный сервомеханизм
+item.thermalexpansion.augment.generalAutoInput.name=Интегрированная воронка
+item.thermalexpansion.augment.generalReconfigSides.name=Интегрированная модульная структура
+item.thermalexpansion.augment.generalRedstoneControl.name=Интегрированная красная схема
+item.thermalexpansion.augment.machineSecondary0.name=Вторичное сито
+item.thermalexpansion.augment.machineSecondary1.name=Стабилизированная рамка
+item.thermalexpansion.augment.machineSecondary2.name=Отклик гиросервомеханизма
+item.thermalexpansion.augment.machineSpeed0.name=Вторичная принимающая катушка
+item.thermalexpansion.augment.machineSpeed1.name=Разогнанный модульный редуктор
+item.thermalexpansion.augment.machineSpeed2.name=Пространственно-временной унификатор потока
+item.thermalexpansion.augment.machineNull.name=Камера аннулирования
+item.thermalexpansion.augment.machineFurnaceFood.name=Тривекционная камера
+item.thermalexpansion.augment.machineExtruderBoost0.name=Ускоренная экструзия
+item.thermalexpansion.augment.machineExtruderBoost1.name=Вулканический катализатор
+item.thermalexpansion.augment.machineExtruderBoost2.name=Пирокластическое генерирование
+item.thermalexpansion.capacitor.creative.name=Творческий потоковый конденсатор
+item.thermalexpansion.capacitor.potato.name=Неровный потоковый конденсатор
+item.thermalexpansion.capacitor.basic.name=Свинцовый потоковый конденсатор
+item.thermalexpansion.capacitor.hardened.name=Усиленный потоковый конденсатор
+item.thermalexpansion.capacitor.reinforced.name=Красный потоковый конденсатор
+item.thermalexpansion.capacitor.resonant.name=Резонирующий потоковый конденсатор
+item.thermalexpansion.diagram.schematic.name=Схема
+item.thermalexpansion.diagram.redprint.name=Красная печать
+item.thermalexpansion.material.lock.name=Сигналовый замок безопасности
+item.thermalexpansion.material.dustWood.name=Опилки
+item.thermalexpansion.material.dustWoodCompressed.name=Прессованные опилки
+item.thermalexpansion.material.fertilizer.name=Удобрение
+item.thermalexpansion.material.fertilizerRich.name=Богатое удобрение
+item.thermalexpansion.satchel.creative.name=Творческая сумка
+item.thermalexpansion.satchel.basic.name=Сумка
+item.thermalexpansion.satchel.hardened.name=Усиленная сумка
+item.thermalexpansion.satchel.reinforced.name=Укреплённая сумка
+item.thermalexpansion.satchel.resonant.name=Резонирующая сумка
+item.thermalexpansion.tool.battleWrench.name=Боевой ключ
+item.thermalexpansion.tool.igniter.name=Потоковый воспламенитель
+item.thermalexpansion.tool.chiller.name=Потоковый замораживатель
+item.thermalexpansion.tool.pump.name=Жидкостная помпа
+item.thermalexpansion.tool.transfuser.name=Потоковый переливатель
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
+#NEI Recipes
+recipe.thermalexpansion.machine=Создание механизмов
+recipe.thermalexpansion.upgrade=Улучшение
+recipe.thermalexpansion.secure=Безопасность
+#Info Tabs
+tab.thermalexpansion.cell.0=Хранит Redstone Flux.
+tab.thermalexpansion.cell.1=Удерживайте Shift или Ctrl для точной настройки.
+tab.thermalexpansion.device.activator.0=Он нарезает на ломтики! На кубики! Он разливает вещи, он бросает вещи!
+tab.thermalexpansion.device.activator.1=Может быть, это случайно, а может быть, и нет. Может он присел, может нет.
+tab.thermalexpansion.device.activator.2=Обманчивая универсальность!
+tab.thermalexpansion.device.breaker.0=Ломает все вещи!
+tab.thermalexpansion.device.breaker.1=Держите лицо подальше от передней части устройства.
+tab.thermalexpansion.device.collector.0=Собирает предметы на территории.
+tab.thermalexpansion.device.collector.1=Всё что не прибито - упало!
+tab.thermalexpansion.device.collector.2=Возможно, не будет воровать из вашего инвентаря. Возможно.
+tab.thermalexpansion.device.nullifier.0=Отправляет все вещи в /dev/null!
+tab.thermalexpansion.device.nullifier.1=Это ужасное место; даже шарики не могут спастись.
+tab.thermalexpansion.device.buffer.0=Хранит и передаёт предметы. Может автоматически извлекать.
+tab.thermalexpansion.device.buffer.1=Лучше, чем воронка, правда!
+tab.thermalexpansion.device.buffer.2=Удерживайте Shift или Ctrl для точной настройки количества.
+tab.thermalexpansion.dynamo.0=Скорость генерации варьируется в зависимости от спроса на энергию.
+tab.thermalexpansion.dynamo.steam.0=Генерирует Redstone Flux с используя пар.
+tab.thermalexpansion.dynamo.steam.1=Для получения пара можно использовать твёрдое топливо и воду.
+tab.thermalexpansion.dynamo.magmatic.0=Генерирует Redstone Flux с помощью очень горячих жидкостей.
+tab.thermalexpansion.dynamo.compression.0=Генерирует Redstone Flux, используя жидкое топливо и охлаждающие жидкости.
+tab.thermalexpansion.dynamo.reactant.0=Генерирует Redstone Flux с помощью алхимических реакций.
+tab.thermalexpansion.dynamo.reactant.1=Необходимо обеспечить наличие твёрдого реактива и жидкого топлива.
+tab.thermalexpansion.dynamo.enervation.0=Извлекает Redstone Flux непосредственно из природных источников или из предметов, которые его хранят.
+tab.thermalexpansion.ender.tesseract.0=Используется для мгновенной транспортировки предметов на огромные расстояния и между измерения.
+tab.thermalexpansion.ender.tesseract.1=Настройте частоту Края для определения связей.
+tab.thermalexpansion.light.0=Настраиваемый источник света, чувствителен к сигналу красного камня.
+tab.thermalexpansion.light.1=Цвет и режим можно настроить с помощью ползунков.
+tab.thermalexpansion.light.2=Замените темноту потрясающей красотой!
+tab.thermalexpansion.machine.furnace.0=Плавит предметы, используя Redstone Flux.
+tab.thermalexpansion.machine.furnace.1=Для приготовления пищи расходуется очень мало энергии.
+tab.thermalexpansion.machine.furnace.2=Ом ном ном.
+tab.thermalexpansion.machine.pulverizer.0=Разбивает предметы о другие предметы.
+tab.thermalexpansion.machine.pulverizer.1=Пригодится для обработки руды или преобразования предметов.
+tab.thermalexpansion.machine.pulverizer.2=Как правило, это не обратимо.
+tab.thermalexpansion.machine.sawmill.0=Распиливает брёвна на доски и перерабатывает деревянные вещи.
+tab.thermalexpansion.machine.sawmill.1=Очень полезно для извлечения максимальной пользы из дерева.
+tab.thermalexpansion.machine.sawmill.2=Берегите свои руки.
+tab.thermalexpansion.machine.smelter.0=Выплавляет металлы и предметы, требующие высоких температур.
+tab.thermalexpansion.machine.smelter.1=Используется для обработки руд и создания улучшенных устройств.
+tab.thermalexpansion.machine.smelter.2=Левый слот можно заблокировать, чтобы в него помещались только определённые предметы.
+tab.thermalexpansion.machine.smelter.3=Совершенно не будет готовить еду.
+tab.thermalexpansion.machine.crucible.0=Превращает твёрдые материалы в жидкости!
+tab.thermalexpansion.machine.crucible.1=Очень полезен для создания продвинутых устройств.
+tab.thermalexpansion.machine.crucible.2=Хранить вдали от маленьких детей и домашних животных.
+tab.thermalexpansion.machine.transposer.0=Наполняет или опустошает предметы, в которых хранятся жидкости.
+tab.thermalexpansion.machine.transposer.1=Нажмите кнопку для переключения между режимами Заполнение и Опустошение.
+tab.thermalexpansion.machine.transposer.2=Как правило, в две стороны.
+tab.thermalexpansion.machine.precipitator.0=Использует Redstone Flux для замораживания различных жидкостей!
+tab.thermalexpansion.machine.precipitator.1=Выбранный предмет - это то, что вы получите, если в резервуаре достаточно жидкости.
+tab.thermalexpansion.machine.precipitator.2=Устройте бой снежками.
+tab.thermalexpansion.machine.extruder.0=Смешивает воду и лаву для получения различных типов магматических пород.
+tab.thermalexpansion.machine.extruder.1=Выбранный предмет - это то, что вы получите, если в резервуарах достаточно воды и лавы.
+tab.thermalexpansion.machine.extruder.2=Физика в Minecraft - это весело!
+tab.thermalexpansion.machine.accumulator.0=Собирает воду из окружающей среды.
+tab.thermalexpansion.machine.accumulator.1=Поместите в бассейн с водой, чтобы ускорить этот процесс.
+tab.thermalexpansion.machine.accumulator.2=Не утоните.
+tab.thermalexpansion.machine.assembler.0=Создаёт предметы, используя рецепт из схемы.
+tab.thermalexpansion.machine.assembler.1=Использует 20 Redstone Flux за предмет.
+tab.thermalexpansion.machine.assembler.2=Нет, это не сработает.
+tab.thermalexpansion.machine.charger.0=Вливает энергию в совместимые предметы.
+tab.thermalexpansion.machine.charger.1=Скорость зарядки может быть ограничена заряжаемым предметом.
+tab.thermalexpansion.machine.charger.2=Почувствуйте гул.
+tab.thermalexpansion.machine.insolator.0=Наполняет растения питательными веществами используя Redstone Flux..
+tab.thermalexpansion.machine.insolator.1=Не совсем 'органическое' сельское хозяйство.
+tab.thermalexpansion.machine.insolator.2=Левый слот можно заблокировать, чтобы в него помещались только определённые предметы.
+tab.thermalexpansion.machine.insolator.3=Великолепно раскалённый!
+tab.thermalexpansion.plate.signal.0=Излучает удалённый сигнал красного камня при контакте.
+tab.thermalexpansion.plate.signal.1=Параметры сигнала могут быть настроены.
+tab.thermalexpansion.plate.impulse.0=Придаёт ускорение при контакте.
+tab.thermalexpansion.plate.impulse.1=Сила и угол могут быть настроены.
+tab.thermalexpansion.plate.translocate.0=Телепортирует объекты и сущностей при контакте.
+tab.thermalexpansion.plate.translocate.1=Дистанция может быть настроена.
+tab.thermalexpansion.plate.charge.0=Заряжает вещи при контакте.
+tab.thermalexpansion.plate.charge.1=Может быть настроен на игнорирование предметов.
+tab.thermalexpansion.plate.excursion.0=Проецирует силовой луч, который перемещает объекты.
+tab.thermalexpansion.plate.excursion.1=Направление луча и реакция на сигнал могут быть настроены.
+tab.thermalexpansion.plate.teleport.0=Позволяет осуществлять телепортацию на большие расстояния.
+tab.thermalexpansion.plate.teleport.1=Межпространственные путешествия потребляют больше RF.
+tab.thermalexpansion.satchel.0=Это сумка. Не будет хранить некоторые объекты.
+tab.thermalexpansion.satchel.1=Никаких возвратов.
+tab.thermalexpansion.satchel.creative=Держит только одну вещь... вроде.
+tab.thermalexpansion.storage.enchant=Можно зачаровать, чтобы увеличить доступное место!
+tab.thermalexpansion.strongbox.0=Это коробка! В ней хранятся вещи. Ну, большинство вещей.
+tab.thermalexpansion.strongbox.creative=Вмещает неограниченное количество одной вещи!
+tab.thermalexpansion.workbench.0=Создаёт вещи.
+tab.thermalexpansion.workbench.1=Рецепт создания может быть записан на схему или считан с неё.
+tab.thermalexpansion.workbench.2=Shift + ПКМ на схеме, чтобы создать сохранённый рецепт напрямую.
+tab.thermalexpansion.workbench.creative=Предметы являются необязательными!
+#Blocks
+tile.thermalexpansion.cache.creative.name=Творческий тайник
+tile.thermalexpansion.cache.basic.name=Тайник
+tile.thermalexpansion.cache.hardened.name=Усиленный тайник
+tile.thermalexpansion.cache.reinforced.name=Укреплённый тайник
+tile.thermalexpansion.cache.resonant.name=Резонирующий тайник
+tile.thermalexpansion.cell=Энергетическая ячейка
+tile.thermalexpansion.cell.creative.name=Творческая энергетическая ячейка
+tile.thermalexpansion.cell.basic.name=Свинцовая энергетическая ячейка
+tile.thermalexpansion.cell.hardened.name=Усиленная энергетическая ячейка
+tile.thermalexpansion.cell.reinforced.name=Красная энергетическая ячейка
+tile.thermalexpansion.cell.resonant.name=Резонирующая энергетическая ячейка
+tile.thermalexpansion.device.collector.name=Сборщик
+tile.thermalexpansion.device.buffer.name=Распределитель предметов
+tile.thermalexpansion.dynamo=Генератор
+tile.thermalexpansion.dynamo.enervation.name=Ослабленный генератор
+tile.thermalexpansion.ender.tesseract.name=Тессеракт
+tile.thermalexpansion.frame.machineBasic.name=Основная рамка механизма
+tile.thermalexpansion.frame.machineHardened.name=Усиленная рамка механизма
+tile.thermalexpansion.frame.machineReinforced.name=Укреплённая рамка механизма
+tile.thermalexpansion.frame.machineResonant.name=Резонирующая рамка механизма
+tile.thermalexpansion.frame.cellBasic.name=Рамка свинцовой энергетической ячейки
+tile.thermalexpansion.frame.cellHardened.nameРамка усиленной энергетической ячейки
+tile.thermalexpansion.frame.cellReinforcedEmpty.name=Рамка красной энергетической ячейки (пустая)
+tile.thermalexpansion.frame.cellReinforcedFull.name=Рамка красной энергетической ячейки (полная)
+tile.thermalexpansion.frame.cellResonantEmpty.name=Рамка резонирующей энергетической ячейки (пустая)
+tile.thermalexpansion.frame.cellResonantFull.name=Рамка резонирующей энергетической ячейки (полная)
+tile.thermalexpansion.frame.tesseractEmpty.name=Рамка тессеракта (пустая)
+tile.thermalexpansion.frame.tesseractFull.name=Рамка тессеракта (полная)
+tile.thermalexpansion.frame.illuminator.name=Рамка светильника
+tile.thermalexpansion.glassLumium.name=Закалённое люмиевое стекло
+tile.thermalexpansion.light.name=6 режимов свечения
+tile.thermalexpansion.light.illuminator.name=Светильник из светокамня
+tile.thermalexpansion.light.lampLumiumRadiant.name=Сияющий люмиевый светильник
+tile.thermalexpansion.light.lampLumium.name=Люмиевый светильник
+tile.thermalexpansion.machine.precipitator.name=Ледниковый осадитель
+tile.thermalexpansion.machine.extruder.name=Вулканический пресс
+tile.thermalexpansion.machine.accumulator.name=Водный накопитель
+tile.thermalexpansion.machine.insolator.name=Фитогенный облучатель
 tile.thermalexpansion.plate.frame.name=Рамка пластины
-tile.thermalexpansion.plate.impulse.name=Импульсная пластина
 tile.thermalexpansion.plate.signal.name=Красная пластина
-tile.thermalexpansion.plate.translocate.name=Транслокационная пластина
 tile.thermalexpansion.plate.charge.name=Заряжающая пластина
 tile.thermalexpansion.plate.teleport.name=Телепортирующая пластина
-tile.thermalexpansion.plate.excursion.name=Экскурсионная пластина
+tile.thermalexpansion.workbench.creative.name=Творческий верстак механика
+tile.thermalexpansion.workbench.basic.name=Верстак механика
+tile.thermalexpansion.workbench.hardened.name=Усиленный верстак механика
+tile.thermalexpansion.workbench.reinforced.name=Укреплённый верстак механика
+tile.thermalexpansion.workbench.resonant.name=Резонирующий верстак механика
+#To be removed
+info.thermalexpansion.device.workbench=Создаёт вещи, может использовать схемы.
 
-info.thermalexpansion.tool.chiller=Замораживает вещи на расстоянии.
-item.thermalexpansion.tool.chiller.name=Потоковый замораживатель
+# Custom Names
+tile.thermalexpansion.machine.furnace.creative.name=Творческая красная печь
+tile.thermalexpansion.machine.furnace.basic.name=Основная красная печь
+tile.thermalexpansion.machine.furnace.hardened.name=Усиленная красная печь
+tile.thermalexpansion.machine.furnace.reinforced.name=Укреплённая красная печь
+tile.thermalexpansion.machine.furnace.resonant.name=Резонирующая красная печь
 
-info.thermalexpansion.tool.igniter=Зажигает огонь на расстоянии.
-item.thermalexpansion.tool.igniter.name=Потоковый воспламенитель
+tile.thermalexpansion.machine.pulverizer.creative.name=Творческий измельчитель
+tile.thermalexpansion.machine.pulverizer.basic.name=Основной измельчитель
+tile.thermalexpansion.machine.pulverizer.hardened.name=Усиленный измельчитель
+tile.thermalexpansion.machine.pulverizer.reinforced.name=Укреплённый измельчитель
+tile.thermalexpansion.machine.pulverizer.resonant.name=Резонирующий измельчитель
 
-info.thermalexpansion.tool.pump=Перекачивает жидкости в и из совместимых ёмкостей.
-item.thermalexpansion.tool.pump.name=Жидкостная помпа
+tile.thermalexpansion.machine.sawmill.creative.name=Творческая лесопилка
+tile.thermalexpansion.machine.sawmill.basic.name=Основная лесопилка
+tile.thermalexpansion.machine.sawmill.hardened.name=Усиленная лесопилка
+tile.thermalexpansion.machine.sawmill.reinforced.name=Укреплённая лесопилка
+tile.thermalexpansion.machine.sawmill.resonant.name=Резонирующая лесопилка
+
+tile.thermalexpansion.machine.smelter.creative.name=Творческая индукционная плавильня
+tile.thermalexpansion.machine.smelter.basic.name=Основная индукционная плавильня
+tile.thermalexpansion.machine.smelter.hardened.name=Усиленная индукционная плавильня
+tile.thermalexpansion.machine.smelter.reinforced.name=Укреплённая индукционная плавильня
+tile.thermalexpansion.machine.smelter.resonant.name=Резонирующая индукционная плавильня
+
+tile.thermalexpansion.machine.crucible.creative.name=Творческий магмовый тигель
+tile.thermalexpansion.machine.crucible.basic.name=Основной магмовый тигель
+tile.thermalexpansion.machine.crucible.hardened.name=Усиленный магмовый тигель
+tile.thermalexpansion.machine.crucible.reinforced.name=Укреплённый магмовый тигель
+tile.thermalexpansion.machine.crucible.resonant.name=Резонирующий магмовый тигель
+
+tile.thermalexpansion.machine.transposer.creative.name=Творческий распределитель жидкости
+tile.thermalexpansion.machine.transposer.basic.name=Основной распределитель жидкости
+tile.thermalexpansion.machine.transposer.hardened.name=Усиленный распределитель жидкости
+tile.thermalexpansion.machine.transposer.reinforced.name=Укреплённый распределитель жидкости
+tile.thermalexpansion.machine.transposer.resonant.name=Резонирующий распределитель жидкости
+
+tile.thermalexpansion.machine.precipitator.creative.name=Творческий ледниковый осадитель
+tile.thermalexpansion.machine.precipitator.basic.name=Основной ледниковый осадитель
+tile.thermalexpansion.machine.precipitator.hardened.name=Усиленный ледниковый осадитель
+tile.thermalexpansion.machine.precipitator.reinforced.name=Укреплённый ледниковый осадитель
+tile.thermalexpansion.machine.precipitator.resonant.name=Резонирующий ледниковый осадитель
+
+tile.thermalexpansion.machine.extruder.creative.name=Творческий вулканический пресс
+tile.thermalexpansion.machine.extruder.basic.name=Основной вулканический пресс
+tile.thermalexpansion.machine.extruder.hardened.name=Усиленный вулканический пресс
+tile.thermalexpansion.machine.extruder.reinforced.name=Укреплённый вулканический пресс
+tile.thermalexpansion.machine.extruder.resonant.name=Резонирующий вулканический пресс
+
+tile.thermalexpansion.machine.accumulator.creative.name=Творческий водный накопитель
+tile.thermalexpansion.machine.accumulator.basic.name=Основной водный накопитель
+tile.thermalexpansion.machine.accumulator.hardened.name=Усиленный водный накопитель
+tile.thermalexpansion.machine.accumulator.reinforced.name=Укреплённый водный накопитель
+tile.thermalexpansion.machine.accumulator.resonant.name=Резонирующий водный накопитель
+
+tile.thermalexpansion.machine.assembler.creative.name=Творческий циклический сборщик
+tile.thermalexpansion.machine.assembler.basic.name=Основной циклический сборщик
+tile.thermalexpansion.machine.assembler.hardened.name=Усиленный циклический сборщик
+tile.thermalexpansion.machine.assembler.reinforced.name=Укреплённый циклический сборщик
+tile.thermalexpansion.machine.assembler.resonant.name=Резонирующий циклический сборщик
+
+tile.thermalexpansion.machine.charger.creative.name=Творческий энергетический зарядник
+tile.thermalexpansion.machine.charger.basic.name=Основной энергетический зарядник
+tile.thermalexpansion.machine.charger.hardened.name=Усиленный энергетический зарядник
+tile.thermalexpansion.machine.charger.reinforced.name=Укреплённый энергетический зарядник
+tile.thermalexpansion.machine.charger.resonant.name=Резонирующий энергетический зарядник
+
+tile.thermalexpansion.machine.insolator.creative.name=Творческий фитогенный облучатель
+tile.thermalexpansion.machine.insolator.basic.name=Основной фитогенный облучатель
+tile.thermalexpansion.machine.insolator.hardened.name=Усиленный фитогенный облучатель
+tile.thermalexpansion.machine.insolator.reinforced.name=Укреплённый фитогенный облучатель
+tile.thermalexpansion.machine.insolator.resonant.name=Резонирующий фитогенный облучатель
 
 tile.thermalexpansion.sponge.creative.wet.name=Мокрая творческая губка
 tile.thermalexpansion.sponge.basic.wet.name=Мокрая простая губка
@@ -574,6 +813,3 @@ tile.thermalexpansion.sponge.magmatic.wet.name=Мокрая магматичес
 tile.thermalexpansion.sponge.creative.dry.name=Сухая творческая губка
 tile.thermalexpansion.sponge.basic.dry.name=Сухая простая губка
 tile.thermalexpansion.sponge.magmatic.dry.name=Сухая магматическая губка
-tile.thermalexpansion.sponge.creative.name=Творческая губка
-tile.thermalexpansion.sponge.basic.name=Простая губка
-tile.thermalexpansion.sponge.magmatic.name=Mагматическая губка
