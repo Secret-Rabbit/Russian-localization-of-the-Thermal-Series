@@ -1,0 +1,199 @@
+itemGroup.thermaldynamics.creativeTab=Thermal Dynamics
+itemGroup.thermaldynamics.creativeTabCovers=Thermal Dynamics: Крышки
+
+item.thermaldynamics.cover.name=Крышка из %s
+
+item.thermaldynamics.filter.info=Ограничивает то, что может проходить через него.
+item.thermaldynamics.retriever.info=Притягивает к себе предметы/жидкости издалека.
+item.thermaldynamics.servo.info=Извлекает предметы / жидкости из чего-либо.
+item.thermaldynamics.relay.info=Передаёт сигналы красного камня.
+
+item.thermaldynamics.filter.0.name=Фильтр
+item.thermaldynamics.filter.1.name=Усиленный фильтр
+item.thermaldynamics.filter.2.name=Укреплённый фильтр
+item.thermaldynamics.filter.3.name=Сигналовый фильтр
+item.thermaldynamics.filter.4.name=Резонирующий фильтр
+
+item.thermaldynamics.servo.0.name=Сервомеханизм
+item.thermaldynamics.servo.1.name=Усиленный сервомеханизм
+item.thermaldynamics.servo.2.name=Укреплённый сервомеханизм
+item.thermaldynamics.servo.3.name=Сигналовый сервомеханизм
+item.thermaldynamics.servo.4.name=Резонирующий сервомеханизм
+
+item.thermaldynamics.retriever.0.name=Поисковик
+item.thermaldynamics.retriever.1.name=Усиленный поисковик
+item.thermaldynamics.retriever.2.name=Укреплённый поисковик
+item.thermaldynamics.retriever.3.name=Сигналовый поисковик
+item.thermaldynamics.retriever.4.name=Резонирующий поисковик
+
+item.thermaldynamics.relay.name=Красное реле
+
+info.thermaldynamics.capacitance=Ёмкость
+info.thermaldynamics.transfer=Пропускная способность
+info.thermaldynamics.transferConnection=Передаваемое количество за соединение.
+info.thermaldynamics.transferFluid=Скорость переноса зависит от жидкости.
+info.thermaldynamics.toggle=ПКМ, чтобы изменить режим.
+
+info.thermaldynamics.duct.energy=Передаёт Redstone Flux (RF).
+info.thermaldynamics.duct.fluid=Передаёт жидкости.
+info.thermaldynamics.duct.item=Передаёт предметы.
+info.thermaldynamics.duct.structure=Обеспечивает структуру.
+info.thermaldynamics.duct.light=Светится при подаче сигнала красного камня.
+info.thermaldynamics.duct.crafting=Компонент создания.
+info.thermaldynamics.duct.cover=Соедините с блоком, чтобы сделать крышки.
+info.thermaldynamics.duct.dense=Значительно увеличивает длину пути.
+info.thermaldynamics.duct.vacuum=Значительно уменьшает длину пути.
+
+info.thermaldynamics.duct.transport=Переносит игроков. Свист.
+info.thermaldynamics.duct.transportLongRange=Быстрый перенос между двумя определёнными местами.
+info.thermaldynamics.duct.transportCrossover=Конечные точки для виадуков большой дальности.
+
+info.thermaldynamics.filter.options=Настройки фильтра
+info.thermaldynamics.filter.whiteList=Белый список
+info.thermaldynamics.filter.metadata=Метаданные
+info.thermaldynamics.filter.nbt=NBT
+info.thermaldynamics.filter.oreDict=Словарь руд
+info.thermaldynamics.filter.modSorting=Автор модификации
+
+info.thermaldynamics.filter.whiteList.off=Белый список
+info.thermaldynamics.filter.whiteList.on=Чёрный список
+info.thermaldynamics.filter.metadata.off=Использовать метаданные
+info.thermaldynamics.filter.metadata.on=Игнорировать метаданные
+info.thermaldynamics.filter.nbt.off=Использовать NBT
+info.thermaldynamics.filter.nbt.on=Игнорировать NBT
+info.thermaldynamics.filter.oreDict.off=Использовать словарь руд
+info.thermaldynamics.filter.oreDict.on=Игнорировать словарь руд
+info.thermaldynamics.filter.modSorting.off=Использовать автора модификации
+info.thermaldynamics.filter.modSorting.on=Игнорировать автора модификации
+
+info.thermaldynamics.filter.routeType.0=Самый ближний
+info.thermaldynamics.filter.routeType.1=Самый дальний
+info.thermaldynamics.filter.routeType.2=Случайный
+info.thermaldynamics.filter.routeType.3=Циклический
+
+info.thermaldynamics.filter.antiSpam.0=Разрешить переполнение
+info.thermaldynamics.filter.antiSpam.1=Запретить переполнение
+
+info.thermaldynamics.filter.incRetainSize=Увелич. макс. кол-во предметов в инвентаре
+info.thermaldynamics.filter.decRetainSize=Уменьш. макс. кол-во предметов в инвентаре
+info.thermaldynamics.filter.zeroRetainSize=Бесконечное
+
+info.thermaldynamics.servo.incStackSize=Увеличить размер извлекаемого стека
+info.thermaldynamics.servo.decStackSize=Уменьшить размер извлекаемого стека
+
+info.thermaldynamics.servo.extractRate=Скорость извлечения
+info.thermaldynamics.servo.speedBoost=Повышение скорости
+info.thermaldynamics.servo.maxStackSize=Максимальный размер стека
+info.thermaldynamics.servo.redstoneExt=Требуется сигнал красного камня
+info.thermaldynamics.servo.redstoneInt=Внутреннее управление красным камнем
+info.thermaldynamics.servo.slotMulti=Извлечение из нескольких слотов.
+info.thermaldynamics.servo.slotSingle=Извлечение из одного слота.
+
+recipe.thermaldynamics.covers=Создание крышек
+
+info.thermaldynamics.relay.invert.0=Масштабируемый
+info.thermaldynamics.relay.invert.1=Масштабируемый инверсный
+info.thermaldynamics.relay.invert.2=Граничный
+info.thermaldynamics.relay.invert.3=Граничный инверсный
+
+info.thermaldynamics.relay.type.0=Вход красного камня
+info.thermaldynamics.relay.type.1=Выход красного камня
+info.thermaldynamics.relay.type.2=Вход компаратора
+
+info.thermaldynamics.relay.threshold=Граница >=
+
+info.thermaldynamics.relay.relayRS=Сигнал реле
+info.thermaldynamics.relay.gridRS=Сигнал трубы
+
+info.thermaldynamics.info.duct=-О трубе-
+info.thermaldynamics.info.attachment=-Информация о содержимом-
+info.thermaldynamics.info.size=Размер
+info.thermaldynamics.info.redstone=Сигнал красного камня
+info.thermaldynamics.info.items=Предметы
+info.thermaldynamics.info.fluid=Жидкости
+info.thermaldynamics.info.fluidThroughput=Максимальная пропускная способность
+info.thermaldynamics.info.energy=RF
+info.thermaldynamics.info.tracker.cur=Текущий уровень
+info.thermaldynamics.info.tracker.avg=5 сек. средн. уровень
+info.thermaldynamics.info.tracker.avgInOut=5 сек. средн. ввод/вывод
+info.thermaldynamics.info.tracker.activate=Отслеживание начато
+
+info.thermaldynamics.transport.name=Транспортная труба
+info.thermaldynamics.transport.config=Конфигурация
+info.thermaldynamics.transport.waiting=Ожидание информации
+info.thermaldynamics.transport.nodest=Нет пунктов назначения
+info.thermaldynamics.transport.unnamed=Без названия
+
+tab.thermaldynamics.filterItem.0=Ограничивает то, что переходит через него.
+
+tab.thermaldynamics.servoItem.0=Извлекает предметы из прикреплённого инвентаря.
+tab.thermaldynamics.servoItem.1=Используйте параметры фильтра, чтобы контролировать, какие предметы будут извлечены.
+
+tab.thermaldynamics.retrieverItem.0=Перетягивает предметы в прикреплённый инвентарь из других инвентарей в этой сети.
+tab.thermaldynamics.retrieverItem.1=Используйте параметры фильтра, чтобы контролировать, какие предметы будут притянуты.
+
+tab.thermaldynamics.conChange=Удерживая Shift и используйте любую кнопку мыши для точной настройки количества.
+
+tile.thermaldynamics.duct=Труба
+tile.thermaldynamics.duct.energyBasic.name=Свинцовая потоковая труба
+tile.thermaldynamics.duct.energyHardened.name=Усиленная потоковая труба
+tile.thermaldynamics.duct.energyReinforced.name=Красная энергетическая потоковая труба
+tile.thermaldynamics.duct.energyReinforcedEmpty.name=Красная энергетическая потоковая труба (Пустая)
+tile.thermaldynamics.duct.energyResonant.name=Резонирующая потоковая труба
+tile.thermaldynamics.duct.energyResonantEmpty.name=Резонирующая потоковая труба (Пустая)
+tile.thermaldynamics.duct.energySuperconductor.name=Криостабилизированная потоковая труба
+tile.thermaldynamics.duct.energySuperconductorEmpty.name=Криостабилизированная потоковая труба (Пустая)
+
+tile.thermaldynamics.duct.fluidBasic.name=Основная жидкостная труба
+tile.thermaldynamics.duct.fluidHardened.name=Усиленная жидкостная труба
+tile.thermaldynamics.duct.fluidFlux.name=Покрытая потоком жидкостная труба
+tile.thermaldynamics.duct.fluidSuper.name=Сверхпластичная жидкостная труба
+
+tile.thermaldynamics.duct.itemBasic.name=Предметная труба
+tile.thermaldynamics.duct.itemFast.name=Импульсная предметная труба
+tile.thermaldynamics.duct.itemFlux.name=Колеблющаяся предметная труба
+tile.thermaldynamics.duct.itemEnder.name=Искажающаяся предметная труба
+
+tile.thermaldynamics.duct.structure.name=Структурная труба
+tile.thermaldynamics.duct.structureGlow.name=Светящаяся труба
+
+tile.thermaldynamics.duct.energySupercond.info=Не имеет остаточной ёмкости.
+
+tile.thermaldynamics.duct.fluidBasic.info=Сломается, если содержимое очень горячее или холодное.
+tile.thermaldynamics.duct.fluidHardened.info=Содержимое может быть любой температуры.
+tile.thermaldynamics.duct.fluidFlux.info=Переносит жидкости и Redstone Flux (RF).
+
+tile.thermaldynamics.duct.fluidSuper.info=Безграничная скорость передачи, когда находится под давлением.
+
+tile.thermaldynamics.duct.itemBasic.info=Передаёт предметы
+tile.thermaldynamics.duct.itemFast.info=Заполнена светокамнем. Предметы перемещаются быстрее.
+tile.thermaldynamics.duct.itemEnder.info=Использует Redstone Flux (RF) для мгновенного перемещения предметов.
+tile.thermaldynamics.duct.itemFlux.info=Передаёт предметы и Redstone Flux (RF).
+tile.thermaldynamics.duct.structure.info=Обеспечивает структуру.
+
+tile.thermaldynamics.duct.opaque.name=%s (непрозрачная)
+tile.thermaldynamics.duct.dense.name=Плотная %s
+tile.thermaldynamics.duct.vacuum.name=Вакуумная %s
+
+tile.thermaldynamics.duct.transport.name=Виадук
+tile.thermaldynamics.duct.transportLongRange.name=Виадук большой дальности
+tile.thermaldynamics.duct.transportAcceleration.name=Соединяющий виадук большой дальности
+tile.thermaldynamics.duct.transportCrafting.name=Виадук (непрозрачный)
+
+# Custom Names
+tile.thermaldynamics.duct.itemBasic.dense.name=Плотная предметная труба
+tile.thermaldynamics.duct.itemBasic.vacuum.name=Вакуумная предметная труба
+tile.thermaldynamics.duct.itemBasic.opaque.dense.name=Плотная предметная труба (непрозрачная)
+tile.thermaldynamics.duct.itemBasic.opaque.vacuum.name=Вакуумная предметная труба (непрозрачная)
+tile.thermaldynamics.duct.itemFast.dense.name=Плотная импульсная предметная труба
+tile.thermaldynamics.duct.itemFast.vacuum.name=Вакуумная импульсная предметная труба
+tile.thermaldynamics.duct.itemFast.opaque.dense.name=Плотная импульсная предметная труба (непрозрачная)
+tile.thermaldynamics.duct.itemFast.opaque.vacuum.name=Вакуумная импульсная предметная труба (непрозрачная)
+tile.thermaldynamics.duct.itemEnder.dense.name=Плотная искажающаяся предметная труба
+tile.thermaldynamics.duct.itemEnder.vacuum.name=Вакуумная искажающаяся предметная труба
+tile.thermaldynamics.duct.itemEnder.opaque.dense.name=Плотная искажающаяся предметная труба (непрозрачная)
+tile.thermaldynamics.duct.itemEnder.opaque.vacuum.name=Вакуумная искажающаяся предметная труба (непрозрачная)
+tile.thermaldynamics.duct.itemFlux.dense.name=Плотная колеблющаяся предметная труба
+tile.thermaldynamics.duct.itemFlux.vacuum.name=Вакуумная колеблющаяся предметная труба
+tile.thermaldynamics.duct.itemFlux.opaque.dense.name=Плотная колеблющаяся предметная труба (непрозрачная)
+tile.thermaldynamics.duct.itemFlux.opaque.vacuum.name=Вакуумная колеблющаяся предметная труба (непрозрачная)
