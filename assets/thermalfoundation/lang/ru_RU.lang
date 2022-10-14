@@ -1,5 +1,3 @@
-#ru_RU
-
 death.attack.basalz=Мир %1$s перевернулся!
 death.attack.blitz=%1$s был трагически просветлён!
 death.attack.flux=Реальность %1$s разорвана на части потоком!
@@ -289,8 +287,8 @@ itemGroup.thermalfoundation.creativeTabArmor=Thermal Foundation: Броня
 
 tab.thermalfoundation.lexicon.study.0=Обратитесь к знаниям мира и измените свою личную судьбу.
 tab.thermalfoundation.lexicon.study.1=С помощью Лексикона вы сможете заставить мир подчиняться вашим решениям.
-tab.thermalfoundation.lexicon.transmute.0=Трансмутировать эквивалентные предметы в соответствии с арканным набором правил\, установленных высшими силами.
-tab.thermalfoundation.lexicon.transmute.1=Подавите Лексикон чтобы отказаться от владычества над миром.
+tab.thermalfoundation.lexicon.transmute.0=Трансмутировать эквивалентные предметы в соответствии с арканным набором правил, установленных высшими силами.
+tab.thermalfoundation.lexicon.transmute.1=Подавите Лексикон чтобы отказаться от владычества над Миром.
 
 tile.thermalfoundation.fluid.redstone.name=Дестабилизированный красный камень
 tile.thermalfoundation.fluid.glowstone.name=Заряженный святящийся камень
