@@ -9,20 +9,20 @@ item.thermaldynamics.servo.info=Извлекает предметы / жидко
 item.thermaldynamics.relay.info=Передаёт сигналы красного камня.
 
 item.thermaldynamics.filter.0.name=Фильтр
-item.thermaldynamics.filter.1.name=Усиленный фильтр
-item.thermaldynamics.filter.2.name=Укреплённый фильтр
+item.thermaldynamics.filter.1.name=Укреплённый фильтр
+item.thermaldynamics.filter.2.name=Усиленный фильтр
 item.thermaldynamics.filter.3.name=Сигналовый фильтр
 item.thermaldynamics.filter.4.name=Резонирующий фильтр
 
 item.thermaldynamics.servo.0.name=Сервомеханизм
-item.thermaldynamics.servo.1.name=Усиленный сервомеханизм
-item.thermaldynamics.servo.2.name=Укреплённый сервомеханизм
+item.thermaldynamics.servo.1.name=Укреплённый сервомеханизм
+item.thermaldynamics.servo.2.name=Усиленный сервомеханизм
 item.thermaldynamics.servo.3.name=Сигналовый сервомеханизм
 item.thermaldynamics.servo.4.name=Резонирующий сервомеханизм
 
 item.thermaldynamics.retriever.0.name=Поисковик
-item.thermaldynamics.retriever.1.name=Усиленный поисковик
-item.thermaldynamics.retriever.2.name=Укреплённый поисковик
+item.thermaldynamics.retriever.1.name=Укреплённый поисковик
+item.thermaldynamics.retriever.2.name=Усиленный поисковик
 item.thermaldynamics.retriever.3.name=Сигналовый поисковик
 item.thermaldynamics.retriever.4.name=Резонирующий поисковик
 
@@ -136,7 +136,7 @@ tab.thermaldynamics.conChange=Удерживая Shift и используйте
 
 tile.thermaldynamics.duct=Труба
 tile.thermaldynamics.duct.energyBasic.name=Свинцовая потоковая труба
-tile.thermaldynamics.duct.energyHardened.name=Усиленная потоковая труба
+tile.thermaldynamics.duct.energyHardened.name=Укреплённая потоковая труба
 tile.thermaldynamics.duct.energyReinforced.name=Красная энергетическая потоковая труба
 tile.thermaldynamics.duct.energyReinforcedEmpty.name=Красная энергетическая потоковая труба (Пустая)
 tile.thermaldynamics.duct.energyResonant.name=Резонирующая потоковая труба
@@ -145,7 +145,7 @@ tile.thermaldynamics.duct.energySuperconductor.name=Криостабилизир
 tile.thermaldynamics.duct.energySuperconductorEmpty.name=Криостабилизированная потоковая труба (Пустая)
 
 tile.thermaldynamics.duct.fluidBasic.name=Основная жидкостная труба
-tile.thermaldynamics.duct.fluidHardened.name=Усиленная жидкостная труба
+tile.thermaldynamics.duct.fluidHardened.name=Укреплённая жидкостная труба
 tile.thermaldynamics.duct.fluidFlux.name=Покрытая потоком жидкостная труба
 tile.thermaldynamics.duct.fluidSuper.name=Сверхпластичная жидкостная труба
 
