@@ -105,9 +105,9 @@ item.thermalfoundation.material.dustMana.name=Пыль маны
 
 item.thermalfoundation.material.gearCopper.name=Медная шестерня
 item.thermalfoundation.material.gearTin.name=Оловянная шестерня
-item.thermalfoundation.material.gearSilver.name=Электрумовая шестерня
-item.thermalfoundation.material.gearLead.name=Инварная шестерня
-item.thermalfoundation.material.gearNickel.name=Бронзовая шестерня
+item.thermalfoundation.material.gearSilver.name=Серебряная шестерня
+item.thermalfoundation.material.gearLead.name=Свинцовая шестерня
+item.thermalfoundation.material.gearNickel.name=Никелевая шестерня
 item.thermalfoundation.material.gearPlatinum.name=Блестящая шестерня
 item.thermalfoundation.material.gearMithril.name=Шестерня из наполненного маной металла
 item.thermalfoundation.material.gearElectrum.name=Электрумовая шестерня
@@ -291,7 +291,7 @@ tab.thermalfoundation.lexicon.transmute.0=Трансмутировать экв�
 tab.thermalfoundation.lexicon.transmute.1=Подавите Лексикон чтобы отказаться от владычества над Миром.
 
 tile.thermalfoundation.fluid.redstone.name=Дестабилизированный красный камень
-tile.thermalfoundation.fluid.glowstone.name=Заряженный святящийся камень
+tile.thermalfoundation.fluid.glowstone.name=Заряженный светящийся камень
 tile.thermalfoundation.fluid.ender.name=Резонирующий эндер
 tile.thermalfoundation.fluid.pyrotheum.name=Пылающий пиротеум
 tile.thermalfoundation.fluid.cryotheum.name=Ледяной криотеум
