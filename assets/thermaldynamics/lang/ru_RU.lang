@@ -138,11 +138,11 @@ tile.thermaldynamics.duct=Труба
 tile.thermaldynamics.duct.energyBasic.name=Свинцовая потоковая труба
 tile.thermaldynamics.duct.energyHardened.name=Укреплённая потоковая труба
 tile.thermaldynamics.duct.energyReinforced.name=Красная энергетическая потоковая труба
-tile.thermaldynamics.duct.energyReinforcedEmpty.name=Красная энергетическая потоковая труба (Пустая)
+tile.thermaldynamics.duct.energyReinforcedEmpty.name=Красная энергетическая потоковая труба (пустая)
 tile.thermaldynamics.duct.energyResonant.name=Резонирующая потоковая труба
-tile.thermaldynamics.duct.energyResonantEmpty.name=Резонирующая потоковая труба (Пустая)
+tile.thermaldynamics.duct.energyResonantEmpty.name=Резонирующая потоковая труба (пустая)
 tile.thermaldynamics.duct.energySuperconductor.name=Криостабилизированная потоковая труба
-tile.thermaldynamics.duct.energySuperconductorEmpty.name=Криостабилизированная потоковая труба (Пустая)
+tile.thermaldynamics.duct.energySuperconductorEmpty.name=Криостабилизированная потоковая труба (пустая)
 
 tile.thermaldynamics.duct.fluidBasic.name=Основная жидкостная труба
 tile.thermaldynamics.duct.fluidHardened.name=Укреплённая жидкостная труба
@@ -178,7 +178,7 @@ tile.thermaldynamics.duct.vacuum.name=Вакуумная %s
 tile.thermaldynamics.duct.transport.name=Виадук
 tile.thermaldynamics.duct.transportLongRange.name=Виадук большой дальности
 tile.thermaldynamics.duct.transportAcceleration.name=Соединяющий виадук большой дальности
-tile.thermaldynamics.duct.transportCrafting.name=Виадук (непрозрачный)
+tile.thermaldynamics.duct.transportCrafting.name=Виадук (необработанный)
 
 # Custom Names
 tile.thermaldynamics.duct.itemBasic.dense.name=Плотная предметная труба
