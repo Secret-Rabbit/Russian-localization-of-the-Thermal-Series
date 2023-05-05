@@ -1,0 +1,18 @@
+{
+	"spellright.language": [
+		"en",
+		"ru"
+	],
+	"spellright.documentTypes": [
+		"markdown",
+		"latex",
+		"json",
+		"minecraft-lang",
+		"plaintext"
+	],
+	"spellright.parserByClass": {
+		"minecraft-lang": {
+			"parser": "plain"
+		}
+	}
+}
