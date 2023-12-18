@@ -13,6 +13,9 @@
   "death.attack.knife": "%1$s был зарезан %2$s!",
   "death.attack.knife.item": "%1$s был зарезан %2$s с помощью %3$s!",
 
+  "death.attack.cofh.knife": "%1$s был зарезан %2$s!",
+  "death.attack.cofh.knife.item": "%1$s был зарезан %2$s с помощью %3$s!",
+
   "forge.swimSpeed": "Скорость плавания",
 
   "commands.cofh.heal.success.single": "%s исцелён",
@@ -27,8 +30,8 @@
   "commands.cofh.invuln.remove.multiple": "Убрана неуязвимость у %s сущностей",
   "commands.cofh.invuln.success.single": "%s стал неуязвимым",
   "commands.cofh.invuln.success.multiple": "%s сущностей стали неуязвимыми",
-  "commands.cofh.recharge.success.single": "%s суперзаряжен",
-  "commands.cofh.recharge.success.multiple": "%s сущностей суперзаряжены",
+  "commands.cofh.recharge.success.single": "%s супер-заряжен",
+  "commands.cofh.recharge.success.multiple": "%s сущностей супер-заряжены",
   "commands.cofh.repair.success.single": "Экипировка %s починена",
   "commands.cofh.repair.success.multiple": "Экипировка %s сущностей починена",
   "commands.cofh.zap.success.single": "%s забит",
