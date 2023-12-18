@@ -104,6 +104,10 @@
   "death.attack.blitz": "%1$s был трагически просветлён!",
   "death.attack.blizz": "%1$s встретил холодную судьбу!",
 
+  "death.attack.basalz_projectile": "Мир %1$s перевернулся!",
+  "death.attack.blitz_projectile": "%1$s был трагически просветлён!",
+  "death.attack.blizz_projectile": "%1$s встретил холодную судьбу!",
+
   "entity.thermal.basalz": "Базальц",
   "entity.thermal.blitz": "Блитц",
   "entity.thermal.blizz": "Близз",
