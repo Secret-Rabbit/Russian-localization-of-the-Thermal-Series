@@ -1,6 +1,6 @@
 ﻿{
   "pack": {
-     "pack_format": 9,
-     "description": "Русская локализация серии Thermal"
+    "pack_format": 15,
+    "description": "Русская локализация серии Thermal"
   }
 }

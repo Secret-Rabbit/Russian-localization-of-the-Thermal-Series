@@ -58,10 +58,11 @@
   "block.thermal.rubberwood_pressure_plate": "Прижимная плита из каучукового дерева",
   "block.thermal.rubberwood_sapling": "Саженец каучукового дерева",
   "block.thermal.rubberwood_slab": "Плита из каучукового дерева",
-  "block.thermal.rubberwood_sign": "Знак из каучукового дерева",
+  "block.thermal.rubberwood_sign": "Табличка из каучукового дерева",
   "block.thermal.rubberwood_stairs": "Ступеньки из каучукового дерева",
   "block.thermal.rubberwood_trapdoor": "Люк из каучукового дерева",
   "block.thermal.rubberwood_wall_sign": "Подвесная табличка из каучукового дерева",
+  "block.thermal.rubberwood_hanging_sign": "Подвесная табличка из каучукового дерева",
   "block.thermal.rubberwood_wood": "Каучуковое дерево",
 
   "block.thermal.potted_rubberwood_sapling": "Саженец каучукового дерева",
