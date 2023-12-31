@@ -52,6 +52,7 @@
   "block.thermal.rubberwood_door": "Дверь из каучукового дерева",
   "block.thermal.rubberwood_fence": "Забор из каучукового дерева",
   "block.thermal.rubberwood_fence_gate": "Калитка из каучукового дерева",
+  "block.thermal.rubberwood_hanging_sign": "Подвесная табличка из каучукового дерева",
   "block.thermal.rubberwood_leaves": "Листва каучукового дерева",
   "block.thermal.rubberwood_log": "Бревно каучукового дерева",
   "block.thermal.rubberwood_planks": "Доски из каучукового дерева",
@@ -62,7 +63,7 @@
   "block.thermal.rubberwood_stairs": "Ступеньки из каучукового дерева",
   "block.thermal.rubberwood_trapdoor": "Люк из каучукового дерева",
   "block.thermal.rubberwood_wall_sign": "Подвесная табличка из каучукового дерева",
-  "block.thermal.rubberwood_hanging_sign": "Подвесная табличка из каучукового дерева",
+  "block.thermal.rubberwood_wall_hanging_sign": "Подвесная табличка из каучукового дерева",
   "block.thermal.rubberwood_wood": "Каучуковое дерево",
 
   "block.thermal.potted_rubberwood_sapling": "Саженец каучукового дерева",
