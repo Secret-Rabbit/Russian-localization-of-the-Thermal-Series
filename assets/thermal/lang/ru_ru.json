@@ -365,7 +365,7 @@
   "item.thermal.rf_coil_xfer_augment": "Многопоточная RF катушка",
 
   "item.thermal.rs_control_augment": "Редстоуновый контроль",
-  "item.thermal.rs_control_augment.desc": "Позволяет управлять сигналами красного камня.",
+  "item.thermal.rs_control_augment.desc": "Позволяет управлять механизмом с помощью сигнала редстоуна.",
 
   "item.thermal.side_config_augment": "Модульная реконфигурация",
   "item.thermal.side_config_augment.desc": "Позволяет настраивать стороны для ввода и вывода.",
@@ -431,7 +431,7 @@
   "block.thermal.lightning_tnt.desc": "При взрыве поражает территорию. Скорее всего принесёт молнию.",
   "block.thermal.nuke_tnt": "Ядерный динамит",
   "block.thermal.nuke_tnt.desc": "Не для использования на близком расстоянии.",
-  "block.thermal.phyto_tnt": "ФНТ",
+  "block.thermal.phyto_tnt": "Фито-динамит",
   "block.thermal.phyto_tnt.desc": "Распространяет фито-гро на большой территории. Не бросается.",
   "block.thermal.redstone_tnt": "Редстоуновый динамит",
   "block.thermal.redstone_tnt.desc": "При взрыве создаёт область сигнала редстоуна.",
@@ -1226,7 +1226,7 @@
   "entity.thermal.ice_tnt_minecart": "Вагонетка с ледяным динамитом",
   "entity.thermal.lightning_tnt_minecart": "Вагонетка с молниеносным динамитом",
   "entity.thermal.nuke_tnt_minecart": "Вагонетка с ядерным динамитом",
-  "entity.thermal.phyto_tnt_minecart": "Вагонетка с ФНТ",
+  "entity.thermal.phyto_tnt_minecart": "Вагонетка с фито-динамитом",
   "entity.thermal.redstone_tnt_minecart": "Вагонетка с редстоуновым динамитом",
   "entity.thermal.slime_tnt_minecart": "Вагонетка со слизневым динамитом",
 
@@ -1248,8 +1248,8 @@
   "item.thermal.ice_tnt_minecart": "Вагонетка с ледяным динамитом",
   "item.thermal.lightning_tnt_minecart": "Вагонетка с молниеносным динамитом",
   "item.thermal.nuke_tnt_minecart": "Вагонетка с ядерным динамитом",
-  "item.thermal.phyto_tnt_minecart": "Вагонетка с ФНТ",
-  "item.thermal.redstone_tnt_minecart": "Вагонетка с краснокаменным динамитом",
+  "item.thermal.phyto_tnt_minecart": "Вагонетка с фито-динамитом",
+  "item.thermal.redstone_tnt_minecart": "Вагонетка с редстоуновым динамитом",
   "item.thermal.slime_tnt_minecart": "Вагонетка со слизневым динамитом",
 
   "item.thermal.energy_minecart": "Вагонетка с энергетической ячейкой",
@@ -1275,7 +1275,7 @@
   "item.thermal.ice_tnt_minecart.keyword": "близз лёд динамит",
   "item.thermal.lightning_tnt_minecart.keyword": "блитц молния динамит",
   "item.thermal.nuke_tnt_minecart.keyword": "динамит",
-  "item.thermal.phyto_tnt_minecart.keyword": "удобрение динамит",
+  "item.thermal.phyto_tnt_minecart.keyword": "удобрение динамит фнт",
   "item.thermal.redstone_tnt_minecart.keyword": "динамит",
   "item.thermal.slime_tnt_minecart.keyword": "динамит",
 
